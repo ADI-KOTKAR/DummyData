@@ -1,1711 +1,392 @@
-{   "experience":[
-      {
-        "Title": "S-Create 1.0 HTML Workshop",
-        "URL": "https://dare2compete.com/e/workshops?",
-        "Domain": "Web Development",
-        "Event": "Workshops",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=193"
-      },
-      {
-        "Title": "Webinar: Analyzing Banks and NBFCs from an Investment Perspective",
-        "URL": "https://dare2compete.com/e/workshops?",
-        "Domain": "Finance",
-        "Event": "Workshops",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=197"
-      },
-      {
-        "Title": "Budding Analyst",
-        "URL": "https://dare2compete.com/e/workshops?",
-        "Domain": "Finance",
-        "Event": "Workshops",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=198"
-      },
-      {
-        "Title": "Placement Discussion by DMS",
-        "URL": " IIT Delhi Students",
-        "Domain": "https://dare2compete.com/e/workshops?",
-        "Event": "Other",
-        "Image": "Workshops"
-      },
-      {
-        "Title": "SICE ( Student initiative for Career Enhancement )",
-        "URL": "https://dare2compete.com/e/workshops?",
-        "Domain": "Other",
-        "Event": "Workshops",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=200"
-      },
-      {
-        "Title": "Free Webinar on ",
-        "URL": "https://dare2compete.com/e/workshops?",
-        "Domain": "Artificial Intelligence",
-        "Event": "Workshops",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=203"
-      },
-      {
-        "Title": "teckanalytics",
-        "URL": "https://dare2compete.com/e/workshops?",
-        "Domain": "Coding",
-        "Event": "Workshops",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=204"
-      },
-      {
-        "Title": "Webinar on ",
-        "URL": "https://dare2compete.com/e/workshops?",
-        "Domain": "Management",
-        "Event": "Workshops",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=206"
-      },
-      {
-        "Title": "This is how you do time management for CAT preparation -By Nivedita Barui from IIM Kozhikode",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=217"
-      },
-      {
-        "Title": "CAT preparation: How to transform your weakest section into the strongest one? -By Anubahv Singh from IIM Lucknow - Part 2",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=225"
-      },
-      {
-        "Title": "From 60.70 to 98.21 percentile: The secret to getting calls from IIMs -By Anubahv Singh from IIM Lucknow - Part 1",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=226"
-      },
-      {
-        "Title": "GRE 2020: Everything you need to know",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=227"
-      },
-      {
-        "Title": "GRE 2020: Preparation tips for a successful attempt!",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=228"
-      },
-      {
-        "Title": "My fight between the PGDM course and other competitive exams -By Gayatri Souryaja from IMT Hyderabad",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=229"
-      },
-      {
-        "Title": "Everything you need to know about GMAT",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=230"
-      },
-      {
-        "Title": "MBA guide 2020: Best colleges offering Marketing courses in India",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=231"
-      },
-      {
-        "Title": "8 terms to brush up your business lingo",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=232"
-      },
-      {
-        "Title": "Do you have latest updates of the GMAT 2020 online exam?",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=234"
-      },
-      {
-        "Title": "NMAT 2020: Here is everything you need to crack it!",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=235"
-      },
-      {
-        "Title": "How to devise a smart strategy for CAT preparation? -By Nitish P Nair",
-        "URL": " 99.67 percentile",
-        "Domain": " IIM Bangalore",
-        "Event": "https://dare2compete.com/prep-talk",
-        "Image": "Higher Education"
-      },
-      {
-        "Title": "CAT preparation: How to transform your weakest section into the strongest one? -By Anubahv Singh from IIM Lucknow - Part 2",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=245"
-      },
-      {
-        "Title": "From 60.70 to 98.21 percentile: The secret to getting calls from IIMs -By Anubahv Singh from IIM Lucknow - Part 1",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=246"
-      },
-      {
-        "Title": "GRE 2020: Everything you need to know",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=247"
-      },
-      {
-        "Title": "GRE 2020: Preparation tips for a successful attempt!",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=248"
-      },
-      {
-        "Title": "My fight between the PGDM course and other competitive exams -By Gayatri Souryaja from IMT Hyderabad",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=249"
-      },
-      {
-        "Title": "Everything you need to know about GMAT",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=250"
-      },
-      {
-        "Title": "MBA guide 2020: Best colleges offering Marketing courses in India",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=251"
-      },
-      {
-        "Title": "8 terms to brush up your business lingo",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=252"
-      },
-      {
-        "Title": "Do you have latest updates of the GMAT 2020 online exam?",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=254"
-      },
-      {
-        "Title": "NMAT 2020: Here is everything you need to crack it!",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=255"
-      },
-      {
-        "Title": "Answers to all your queries on taking and analysing CAT Mocks",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=256"
-      },
-      {
-        "Title": "Self Branding is the most important thing you will do for your professional self!",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=257"
-      },
-      {
-        "Title": "How to score 100 percentile in CAT -By Somansh Chordia from IIT Bombay",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=258"
-      },
-      {
-        "Title": "Cracking the code of winning B-School competitions -With Ameer from IIM B",
-        "URL": " Ayushmn from NMIMS",
-        "Domain": " Sambit from IIM I and Ankit Aggarwal",
-        "Event": " Founder & CEO",
-        "Image": " Dare2Compete"
-      },
-      {
-        "Title": "Here is how you can respectfully disagree in a job interview -By Soumya from IIM Visakhapatnam",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=260"
-      },
-      {
-        "Title": "CAT 2020: Prepare for LRDI section with these smart strategies",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=261"
-      },
-      {
-        "Title": "12 much-needed certification courses for MBA aspirants!",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=262"
-      },
-      {
-        "Title": "The credibility of books or accessibility of internet â€“ What is your pick? -By Sathyanarayanan from IIM Indore",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=263"
-      },
-      {
-        "Title": "When I lost track of the MBA plan -By Karanveer Singh from FSM Delhi",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=265"
-      },
-      {
-        "Title": "What happens when one takes up a market research project they aren't sure about? -By Chitrangda Jain from SSCBS Delhi",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=266"
-      },
-      {
-        "Title": "Winning makes you feel like an extraordinary individual! -By Avinash Daryani from AMSoM",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=267"
-      },
-      {
-        "Title": "Uncovering the chaos of corporate competitions -By Srishti from IIM Indore",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=268"
-      },
-      {
-        "Title": "Everything you need to know to ace engineering entrance exams!",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=269"
-      },
-      {
-        "Title": "My career as an MBA student was a nightmare until I met my hero -By Tushar Swami from DBE DU",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=270"
-      },
-      {
-        "Title": "When I resigned and joined CAT coaching classes -By Nayana Suri from NMIMS Mumbai",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=271"
-      },
-      {
-        "Title": "When I decided to join a management school -By Nandinee Majumdar from XIMB",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=272"
-      },
-      {
-        "Title": "How I managed to crack a B-School interview -By Vaishnavi Subramanian from IIM Lucknow",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=285"
-      },
-      {
-        "Title": "Micro degrees: The future of Education is here",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=295"
-      },
-      {
-        "Title": "I collect role models just like people collect stamps",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=296"
-      },
-      {
-        "Title": "5 Mistakes that can land your MBA application in the reject pile",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=297"
-      },
-      {
-        "Title": "Last minute preparation tips: CAT 2018",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=299"
-      },
-      {
-        "Title": "A TED Talk by Patty McCord: 8 lessons on building a company people enjoy working for",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=300"
-      },
-      {
-        "Title": "A TED Talk by Regina Hartley: Why the best hire might not have the perfect resume",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=301"
-      },
-      {
-        "Title": "B-School Diaries: When I found my interest in Consulting and Research | Tushar Swami - DBE DU",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=316"
-      },
-      {
-        "Title": "Time-tested strategies to score 99 percentile in NMAT",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=317"
-      },
-      {
-        "Title": "How to crack XAT in 5 months?",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=318"
-      },
-      {
-        "Title": "Importance of soft skills for an Engineer",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=319"
-      },
-      {
-        "Title": "Definitive Reading List For CAT Preparation",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=320"
-      },
-      {
-        "Title": "Pro-Tips To Crack Any Consulting Internship",
-        "URL": "https://dare2compete.com/prep-talk",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=321"
-      }
-    ],
-    "study": [
-          {
-            "Title": "Game development using PyGame",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Python",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=328"
-          },
-          {
-            "T`itle": "Robot for Every Student",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Artificial Intelligence",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=329"
-          },
-          {
-            "Title": "Learn Python in Hindi",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Python",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=330"
-          },
-          {
-            "Title": "EGonLine",
-            "URL": "https://www.aicte-india.org/",
+{
+    "events":[
+        {
+            "Title": "July Circuits '20",
+            "URL": "https://www.hackerearth.com/challenges/competitive/july-circuits-20/",
             "Domain": "Coding",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=331"
-          },
-          {
-            "Title": "AWS Solution Architect-Associate Lab Demos in Hindi",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Cloud Computing",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=338"
-          },
-          {
-            "Title": "Zbrush Course in Zbrush Vol. 1: Learn Basic Zbrush 3D software",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Other",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=339"
-          },
-          {
-            "Title": "The iOS Development MasterClass: Learn the skills to Master Swift and Xcode",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Mobile Applications",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=340"
-          },
-          {
-            "Title": "YouTube SEO and Optimization with Tubebuddy",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Management",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=342"
-          },
-          {
-            "Title": "Managing Anger and Frustration in the Workplace",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Other",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=343"
-          },
-          {
-            "Title": "HTML: The First Step for Absolute Beginners",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Web Development",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=346"
-          },
-          {
-            "Title": "Learn Angular 7 Boilerplate in Hindi (get a CRUD project)",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Javascript",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=347"
-          },
-          {
-            "Title": "Automate Your G Suite Administration with Google Sheets",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Coding",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=348"
-          },
-          {
-            "Title": "OWASP ZAP From Scratch",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Security",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=350"
-          },
-          {
-            "Title": "How to Win Customers and Skyrocket your Sales and Profits",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Finance",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=352"
-          },
-          {
-            "Title": "iOS App Entrepreneurship: Build a Tech Start-Up",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Mobile Applications",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=353"
-          },
-          {
-            "Title": "Road Map to Artificial Intelligence and Machine Learning",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Machine Learning",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=354"
-          },
-          {
-            "Title": "Core Java Interview Bootcamp To Handle Interviews With Confidence",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Java",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=355"
-          },
-          {
-            "Title": "Wordpress Beginner Tutorial: Build Your First Website",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Web Development",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=356"
-          },
-          {
-            "Title": "PyQt5 - Create an AMAZING Calculator!!",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Python",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=357"
-          },
-          {
-            "Title": "MTC E- learning management system",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Coding",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=358"
-          },
-          {
-            "Title": "Edulib",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Coding",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=359"
-          },
-          {
-            "Title": "Python for Machine Learning",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Machine Learning",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=360"
-          },
-          {
-            "Title": "Cloud Foundations",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Cloud Computing",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=361"
-          },
-          {
-            "Title": "Neural Networks and Deep Learning",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Machine Learning",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=362"
-          },
-          {
-            "Title": "How to Ace Coding Interviews?",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Coding",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=363"
-          },
-          {
-            "Title": "Mastering Big Data Analytics",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Data Science",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=364"
-          },
-          {
-            "Title": "Programming Work Bench",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Data Science",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=365"
-          },
-          {
-            "Title": "Diploma in Machine Learning with R studio",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Machine Learning",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=367"
-          },
-          {
-            "Title": "Machine Learning using Python",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Machine Learning",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=368"
-          },
-          {
-            "Title": "Data Analytics using R",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Data Science",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=369"
-          },
-          {
-            "Title": "IAAA: Certified Software Testing Professional - Functional Testing",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Development Processes",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=370"
-          },
-          {
-            "Title": "LEAP: Learning Excellence And Progression",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Machine Learning",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=372"
-          },
-          {
-            "Title": "Big Data 101",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Data Science",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=373"
-          },
-          {
-            "Title": "R Programming",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Coding",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=374"
-          },
-          {
-            "Title": "Java Programming",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Java",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=375"
-          },
-          {
-            "Title": "Data Science for Beginners/ Python for Data Science",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Data Science",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=376"
-          },
-          {
-            "Title": "Digital Marketing",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Management",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=377"
-          },
-          {
-            "Title": "Machine Learning Onramp",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Machine Learning",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=379"
-          },
-          {
-            "Title": "Deep Learning Onramp",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Machine Learning",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=380"
-          },
-          {
-            "Title": "AI/ML Internship",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Artificial Intelligence",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=381"
-          },
-          {
-            "Title": "GUVI",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Coding",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=385"
-          },
-          {
-            "Title": "Certified Full Stack Engineer",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Web Development",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=386"
-          },
-          {
-            "Title": "Fundamentals Of CFD",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Coding",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=387"
-          },
-          {
-            "Title": "Fundamentals of Hybrid Electric Vehicle",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=388"
-          },
-          {
-            "Title": "Fundamentals of Automotive Plastic Designs",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=389"
-          },
-          {
-            "Title": "Fundamentals of Computer Aided Engineering",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Coding",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=390"
-          },
-          {
-            "Title": "Basic Structural Elements and Load Calculations for Buildings",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Other",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=391"
-          },
-          {
-            "Title": "Introduction to Digital Marketing",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Management",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=393"
-          },
-          {
-            "Title": "Business Finance Foundations",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Finance",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=394"
-          },
-          {
-            "Title": "Marketing Foundations",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Management",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=395"
-          },
-          {
-            "Title": "Excel for Beginners",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Coding",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=396"
-          },
-          {
-            "Title": "Financial Risk Analytics",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Finance",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=397"
-          },
-          {
-            "Title": "Performance Management & Competency Mapping",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Management",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=398"
-          },
-          {
-            "Title": "Financial Management",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Finance",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=399"
-          },
-          {
-            "Title": "Online Internship in Financial Analysis Basics",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Finance",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=400"
-          },
-          {
-            "Title": "Online Internship in Investment Analysis Skills",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Finance",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=401"
-          },
-          {
-            "Title": "Virtual Robotics Toolkit(VRT)",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Hardware",
-            "Event": "Courses",
+            "Event": "Hackathons",
             "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=405"
           },
           {
-            "Title": "Statistics 101",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Data Science",
-            "Event": "Courses",
+            "Title": "Esko Software Engineer Hiring Challenge",
+            "URL": "https://www.hackerearth.com/challenges/hiring/esko-software-engineer-hiring-challenge-july20/",
+            "Domain": "Coding",
+            "Event": "Hackathons",
+            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=406"
+          },
+          {
+            "Title": "American Express Codestreet'20",
+            "URL": "https://codestreet-2020.hackerearth.com/",
+            "Domain": "Coding",
+            "Event": "Hackathons",
+            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=407"
+          },
+          {
+            "Title": "Let the fight begin",
+            "URL": "https://www.hackerearth.com/codearena/",
+            "Domain": "Coding",
+            "Event": "Hackathons",
+            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=408"
+          },
+          {
+            "Title": "Simplilearn Hiring Challenge 2020",
+            "URL": "https://www.hackerearth.com/challenges/hiring/simplilearn-hiring-2020/",
+            "Domain": "Coding",
+            "Event": "Hackathons",
+            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=409"
+          },
+          {
+            "Title": "iVoyant Developer Hiring Challenge",
+            "URL": "https://www.hackerearth.com/challenges/hiring/ivoyant-developer-hiring-challenge/",
+            "Domain": "Coding",
+            "Event": "Hackathons",
+            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=410"
+          },
+          {
+            "Title": "ThoughtWorks Fullstack Developer Hiring challenge - July 2020",
+            "URL": "https://www.hackerearth.com/challenges/hiring/thoughtworks-fullstack-developer-hiring-challenge-july-2020-2/",
+            "Domain": "Coding",
+            "Event": "Hackathons",
+            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=411"
+          },
+          {
+            "Title": "Coda Global FullStack Superhero Hiring Challenge",
+            "URL": "https://www.hackerearth.com/challenges/hiring/coda-global-fullstack-superhero-hiring-challenge-july20/",
+            "Domain": "Coding",
+            "Event": "Hackathons",
             "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=412"
           },
           {
-            "Title": "Quanser's EXPERIENCE CONTROLS APP",
-            "URL": "https://www.aicte-india.org/",
+            "Title": "Coda Global Frontend Superhero Hiring Challenge",
+            "URL": "https://www.hackerearth.com/challenges/hiring/coda-global-frontend-superhero-hiring-challenge-july20/",
             "Domain": "Coding",
-            "Event": "Courses",
+            "Event": "Hackathons",
             "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=413"
           },
           {
-            "Title": "GATE Exam Preparation",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Higher Education",
-            "Event": "Courses",
+            "Title": "Delhi Hacks",
+            "URL": "https://dare2compete.com/o/delhi-hacks-script-foundation-117854",
+            "Domain": "Coding",
+            "Event": "Hackathons",
+            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=414"
+          },
+          {
+            "Title": "Alexa Skill Challenge: Alexa Conversations",
+            "URL": "https://dare2compete.com/o/alexa-skill-challenge-alexa-conversations-amazon-119089",
+            "Domain": "Coding",
+            "Event": "Hackathons",
+            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=415"
+          },
+          {
+            "Title": "AppSprint'20",
+            "URL": "https://dare2compete.com/o/appsprint20-pes-university-pesu-bengaluru-118903",
+            "Domain": "Coding",
+            "Event": "Hackathons",
+            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=416"
+          },
+          {
+            "Title": "Tech Takes on Unemployment Hackathon",
+            "URL": "https://dare2compete.com/o/tech-takes-on-unemployment-hackathon-terminal-118774",
+            "Domain": "Coding",
+            "Event": "Hackathons",
             "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=417"
           },
           {
-            "Title": "Introduction to Banking",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Finance",
-            "Event": "Courses",
+            "Title": "Kryon Bot Camp",
+            "URL": "https://dare2compete.com/o/kryon-bot-camp-kryon-systems-118460",
+            "Domain": "Coding",
+            "Event": "Hackathons",
             "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=418"
           },
           {
-            "Title": "Introduction to UPSC (NCERT Product)",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "Higher Education",
-            "Event": "Courses",
+            "Title": "Nav Ujjwal E-Innovation Hackathon",
+            "URL": "https://dare2compete.com/o/nav-ujjwal-e-innovation-hackathon-model-club-118259",
+            "Domain": "Coding",
+            "Event": "Hackathons",
             "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=419"
           },
           {
-            "Title": "NI Online Training Resources",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "IoT",
-            "Event": "Courses",
+            "Title": "Auth0",
+            "URL": "https://dare2compete.com/o/auth0-hackathon-auth0-118080",
+            "Domain": "Coding",
+            "Event": "Hackathons",
             "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=420"
           },
           {
-            "Title": "NI Badge Program",
-            "URL": "https://www.aicte-india.org/",
-            "Domain": "IoT",
-            "Event": "Courses",
+            "Title": "To The Moon And Hack",
+            "URL": "https://dare2compete.com/o/to-the-moon-and-hack-major-league-hacking-116759",
+            "Domain": "Coding",
+            "Event": "Hackathons",
             "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=421"
           },
           {
-            "Title": "Connect with customers over mobile",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Management",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=429"
-          },
-          {
-            "Title": "Promote a business with content",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Management",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=430"
-          },
-          {
-            "Title": "Understand customers needs and online behaviours",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Management",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=431"
-          },
-          {
-            "Title": "How to enhance and protect your online campaign",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Management",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=432"
-          },
-          {
-            "Title": "Customer Segmentation and Prospecting",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Management",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=433"
-          },
-          {
-            "Title": "Content",
-            "URL": " Advertising & Social IMC",
-            "Domain": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Event": "Management",
-            "Image": "Courses"
-          },
-          {
-            "Title": "Marketing in a Digital World",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Management",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=435"
-          },
-          {
-            "Title": "What is Social?",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Management",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=436"
-          },
-          {
-            "Title": "Understanding the web",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Web Development",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=437"
-          },
-          {
-            "Title": "Shopping Ads",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
+            "Title": "HackATL 2020",
+            "URL": "https://dare2compete.com/o/hackatl-2020-hackatl-116782",
             "Domain": "Coding",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=448"
+            "Event": "Hackathons",
+            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=422"
           },
           {
-            "Title": "Google Ads Video",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
+            "Title": "TigerGraph",
+            "URL": "https://dare2compete.com/o/tigergraph-2020-graphathon-tigergraph-117074",
             "Domain": "Coding",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=449"
+            "Event": "Hackathons",
+            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=423"
           },
           {
-            "Title": "Create a Presentation “All About a Topic”",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
+            "Title": "Enroute - Campus to Corporate",
+            "URL": "https://dare2compete.com/o/enroute-campus-to-corporate-umbrella-aegis-119299",
             "Domain": "Other",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=450"
+            "Event": "Workshop",
+            "Image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
           },
           {
-            "Title": "English for Career Development",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
+            "Title": "BKSPMS Webinar on Sales Life Cycle in IT Industry",
+            "URL": "https://dare2compete.com/o/bkspms-webinar-on-sales-life-cycle-in-it-industry-bk-school-of-business-management-bksbm-ahmedabad-119208",
+            "Domain": "Coding",
+            "Event": "Workshop",
+            "Image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=81"
+          },
+          {
+            "Title": "Start your career during COVID-19",
+            "URL": "https://dare2compete.com/o/start-your-career-during-covid-19-oriflame-119275",
             "Domain": "Other",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=468"
+            "Event": "Workshop",
+            "Image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=82"
           },
           {
-            "Title": "Business Writing",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Finance",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=472"
+            "Title": "Building a strong UPSC Foundation while in college",
+            "URL": "https://dare2compete.com/o/building-a-strong-upsc-foundation-while-in-college-ramjas-college-rc-university-of-delhi-du-delhi-119116",
+            "Domain": "Other",
+            "Event": "Workshop",
+            "Image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=83"
           },
           {
-            "Title": "Organizational Design and Management",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Management",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=473"
+            "Title": "The Mind of a Strategist",
+            "URL": "https://dare2compete.com/o/the-mindset-of-a-strategist-industry-talks-by-club-insights-bml-munjal-university-bmu-gurgaon-119144",
+            "Domain": "Other",
+            "Event": "Workshop",
+            "Image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=84"
           },
           {
-            "Title": "High Performance Collaboration: Leadership",
-            "URL": " Teamwork",
-            "Domain": " and Negotiation",
-            "Event": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Image": "Management"
+            "Title": "Webinar on Upskilling, Personal Growth and Impact on Jobs amid COVID-19 Pandemic",
+            "URL": "https://dare2compete.com/o/webinar-on-upskilling-personal-growth-and-impact-on-jobs-amid-covid-19-pandemic-career-launcher-119154",
+            "Domain": "Other",
+            "Event": "Workshop",
+            "Image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=85"
           },
           {
-            "Title": "Think Again II: How to Reason Deductively",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Management",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=476"
+            "Title": "Webinar on From Sharing Tea to Ideas - The Essence of Team Work",
+            "URL": "https://dare2compete.com/o/webinar-on-from-sharing-tea-to-ideas-the-essence-of-team-work-amity-university-au-rajasthan-119058",
+            "Domain": "Other",
+            "Event": "Workshop",
+            "Image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=86"
           },
           {
-            "Title": "Grasshopper: Learn to Code",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Coding",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=504"
+            "Title": "How to build a career in photography?",
+            "URL": "https://dare2compete.com/o/how-to-build-a-career-in-photography-thinkerspoint-119038",
+            "Domain": "Other",
+            "Event": "Workshop",
+            "Image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=87"
           },
           {
-            "Title": "Organize Files in Drive",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Coding",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=505"
+            "Title": "Vedic Maths Online Workshop for Kids Designed by IIT Alumni",
+            "URL": "https://dare2compete.com/o/vedic-maths-online-workshop-for-kids-designed-by-iit-alumni-merry-go-learn-118997",
+            "Domain": "Other",
+            "Event": "Workshop",
+            "Image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=88"
           },
           {
-            "Title": "Annotate Text in Google Docs",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Coding",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=506"
-          },
-          {
-            "Title": "Understand the basics of code",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Coding",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=510"
-          },
-          {
-            "Title": "Understand the basics of machine learning",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Machine Learning",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=511"
-          },
-          {
-            "Title": "Improve your online business security",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Finance",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=512"
-          },
-          {
-            "Title": "Google Cloud Platform Fundamentals: Core Infrastructure",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Cloud Computing",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=513"
-          },
-          {
-            "Title": "Google Cloud Platform Big Data and Machine Learning Fundamentals",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Data Science",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=514"
-          },
-          {
-            "Title": "Machine Learning Crash Course",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Machine Learning",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=515"
-          },
-          {
-            "Title": "Elements of AI",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Artificial Intelligence",
-            "Event": "Certifications",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=516"
-          },
-          {
-            "Title": "Technical Support Fundamentals",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Management",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=517"
-          },
-          {
-            "Title": "Programming for Everybody (Getting Started with Python)",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Coding",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=521"
-          },
-          {
-            "Title": "Front-End Web UI Frameworks and Tools: Bootstrap 4",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
+            "Title": "S-Create 1.0 HTML Workshop",
+            "URL": "https://dare2compete.com/o/s-create-10-html-workshop-s-cube-world-118976",
             "Domain": "Web Development",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=522"
-          },
-          {
-            "Title": "Search Engine Optimization Fundamentals",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Coding",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=523"
-          },
-          {
-            "Title": "Introduction to Cybersecurity for Business",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Security",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=525"
-          },
-          {
-            "Title": "Python Basics",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Python",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=526"
-          },
-          {
-            "Title": "Exploring and Preparing your Data with BigQuery",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Data Science",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=527"
-          },
-          {
-            "Title": "Enterprise System Management and Security",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Security",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=528"
-          },
-          {
-            "Title": "Software Development Processes and Methodologies",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Development Processes",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=529"
-          },
-          {
-            "Title": "Cloud Computing Concepts",
-            "URL": " Part 1",
-            "Domain": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Event": "Cloud Computing",
-            "Image": "Courses"
-          },
-          {
-            "Title": "Kotlin for Java Developers",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Java",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=531"
-          },
-          {
-            "Title": "SQL for Data Science",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Data Science",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=532"
-          },
-          {
-            "Title": "Fundamentals of Network Communication",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Networking",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=533"
-          },
-          {
-            "Title": "Database Management Essentials",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Data Science",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=534"
-          },
-          {
-            "Title": "What is Data Science?",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Data Science",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=535"
-          },
-          {
-            "Title": "Decision Making in a Complex and Uncertain World",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Management",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=536"
-          },
-          {
-            "Title": "Intro to TensorFlow for Deep Learning",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Machine Learning",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=537"
-          },
-          {
-            "Title": "Introduction to Python Programming",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Python",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=538"
-          },
-          {
-            "Title": "Version Control with Git",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Development Processes",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=539"
-          },
-          {
-            "Title": "Object-Oriented JavaScript",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Javascript",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=540"
-          },
-          {
-            "Title": "Introduction to Cybersecurity",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Security",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=541"
-          },
-          {
-            "Title": "SQL for Data Analysis",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Data Science",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=542"
-          },
-          {
-            "Title": "Intro to JavaScript",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Javascript",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=543"
-          },
-          {
-            "Title": "Build Native Mobile Apps with Flutter",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Mobile Applications",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=544"
-          },
-          {
-            "Title": "Kotlin Bootcamp for Programmers",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Mobile Applications",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=545"
-          },
-          {
-            "Title": "Developing Android Apps with Kotlin",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Mobile Applications",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=546"
-          },
-          {
-            "Title": "Android developer",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Mobile Applications",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=547"
-          },
-          {
-            "Title": "Web developer",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Web Development",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=548"
-          },
-          {
-            "Title": "Salesforce developer",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Development Processes",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=549"
-          },
-          {
-            "Title": "Front-end developer",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Web Development",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=550"
-          },
-          {
-            "Title": "Think like a computer: the logic of programming",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Coding",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=551"
-          },
-          {
-            "Title": "Build your first web pages with HTML and CSS",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Web Development",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=552"
-          },
-          {
-            "Title": "Learn programming with JavaScript",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Javascript",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=553"
-          },
-          {
-            "Title": "Learn Python basics for data analysis",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Python",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=554"
-          },
-          {
-            "Title": "Prepare for the G Suite Certification Exam",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Coding",
-            "Event": "Certifications",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=555"
-          },
-          {
-            "Title": "Google IT Support Professional Certificate",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Coding",
-            "Event": "Certifications",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=556"
-          },
-          {
-            "Title": "Google IT Automation with Python Professional Certificate",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Development Processes",
-            "Event": "Certifications",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=557"
-          },
-          {
-            "Title": "Create Quizzes in Google Forms",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Coding",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=558"
-          },
-          {
-            "Title": "Create a budget in Google sheets",
-            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
-            "Domain": "Coding",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=559"
-          },
-          {
-            "Title": "CS50's Introduction to Game Development",
-            "URL": "https://online-learning.harvard.edu/catalog",
-            "Domain": "Coding",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=560"
-          },
-          {
-            "Title": "CS50's Web Programming with Python and JavaScript",
-            "URL": "https://online-learning.harvard.edu/catalog",
-            "Domain": "Web Development",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=561"
-          },
-          {
-            "Title": "CS50's Mobile App Development with React Native",
-            "URL": "https://online-learning.harvard.edu/catalog",
-            "Domain": "Mobile Applications",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=562"
-          },
-          {
-            "Title": "Nonprofit Financial Stewardship Webinar: Introduction to Accounting and Financial Statements",
-            "URL": "https://online-learning.harvard.edu/catalog",
-            "Domain": "Finance",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=563"
-          },
-          {
-            "Title": "CS50: Introduction to Computer Science",
-            "URL": "https://online-learning.harvard.edu/catalog",
-            "Domain": "Coding",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=564"
-          },
-          {
-            "Title": "Fat Chance: Probability from the Ground Up",
-            "URL": "https://online-learning.harvard.edu/catalog",
-            "Domain": "Data Science",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=565"
-          },
-          {
-            "Title": "High-Dimensional Data Analysis",
-            "URL": "https://online-learning.harvard.edu/catalog",
-            "Domain": "Data Science",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=566"
-          },
-          {
-            "Title": "Statistical Inference and Modeling for High-throughput Experiments",
-            "URL": "https://online-learning.harvard.edu/catalog",
-            "Domain": "Machine Learning",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=567"
-          },
-          {
-            "Title": "Introduction to Linear Models and Matrix Algebra",
-            "URL": "https://online-learning.harvard.edu/catalog",
-            "Domain": "Machine Learning",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=568"
-          },
-          {
-            "Title": "Statistics and R",
-            "URL": "https://online-learning.harvard.edu/catalog",
-            "Domain": "Data Science",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=569"
-          },
-          {
-            "Title": "Introduction to Digital Humanities",
-            "URL": "https://online-learning.harvard.edu/catalog",
-            "Domain": "Management",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=570"
-          },
-          {
-            "Title": "Improving Your Business Through a Culture of Health",
-            "URL": "https://online-learning.harvard.edu/catalog",
-            "Domain": "Finance",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=571"
-          },
-          {
-            "Title": "CS50's Introduction to Artificial Intelligence with Python",
-            "URL": "https://online-learning.harvard.edu/catalog",
-            "Domain": "Artificial Intelligence",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=572"
-          },
-          {
-            "Title": "Entrepreneurship in Emerging Economies",
-            "URL": "https://online-learning.harvard.edu/catalog",
-            "Domain": "Management",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=573"
-          },
-          {
-            "Title": "Introduction to Bioconductor",
-            "URL": "https://online-learning.harvard.edu/catalog",
-            "Domain": "IoT",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=574"
-          },
-          {
-            "Title": "Advanced Bioconductor",
-            "URL": "https://online-learning.harvard.edu/catalog",
-            "Domain": "IoT",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=575"
-          },
-          {
-            "Title": "Introduction to Bioconductor",
-            "URL": "https://online-learning.harvard.edu/catalog",
-            "Domain": "IoT",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=576"
-          },
-          {
-            "Title": "Exercising Leadership: Foundational Principles",
-            "URL": "https://online-learning.harvard.edu/catalog",
-            "Domain": "Management",
-            "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=579"
-          },
-          {
+            "Event": "Workshop",
+            "Image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=89"
+          }
+    ],
+    "study":[
+        {
             "Title": "Data Science: Wrangling",
-            "URL": "https://online-learning.harvard.edu/catalog",
+            "URL": "https://online-learning.harvard.edu/catalog?keywords=&subject%5B%5D=84&paid%5B1%5D=1&max_price=&start_date_range%5Bmin%5D%5Bdate%5D=&start_date_range%5Bmax%5D%5Bdate%5D=",
             "Domain": "Data Science",
             "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=580"
+            "Image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1934&q=80"
           },
           {
             "Title": "Data Science: R Basics",
-            "URL": "https://online-learning.harvard.edu/catalog",
+            "URL": "https://online-learning.harvard.edu/catalog?keywords=&subject%5B%5D=84&paid%5B1%5D=1&max_price=&start_date_range%5Bmin%5D%5Bdate%5D=&start_date_range%5Bmax%5D%5Bdate%5D=",
             "Domain": "Data Science",
             "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=581"
+            "Image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1934&q=81"
           },
           {
             "Title": "Data Science: Linear Regression",
-            "URL": "https://online-learning.harvard.edu/catalog",
+            "URL": "https://online-learning.harvard.edu/catalog?keywords=&subject%5B%5D=84&paid%5B1%5D=1&max_price=&start_date_range%5Bmin%5D%5Bdate%5D=&start_date_range%5Bmax%5D%5Bdate%5D=",
             "Domain": "Data Science",
             "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=582"
+            "Image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1934&q=82"
           },
           {
             "Title": "Data Science: Visualization",
-            "URL": "https://online-learning.harvard.edu/catalog",
+            "URL": "https://online-learning.harvard.edu/catalog?keywords=&subject%5B%5D=84&paid%5B1%5D=1&max_price=&start_date_range%5Bmin%5D%5Bdate%5D=&start_date_range%5Bmax%5D%5Bdate%5D=",
             "Domain": "Data Science",
             "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=583"
+            "Image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1934&q=83"
           },
           {
             "Title": "Data Science: Machine Learning",
-            "URL": "https://online-learning.harvard.edu/catalog",
+            "URL": "https://online-learning.harvard.edu/catalog?keywords=&subject%5B%5D=84&paid%5B1%5D=1&max_price=&start_date_range%5Bmin%5D%5Bdate%5D=&start_date_range%5Bmax%5D%5Bdate%5D=",
             "Domain": "Data Science",
             "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=584"
+            "Image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1934&q=84"
           },
           {
             "Title": "Data Science: Probability",
-            "URL": "https://online-learning.harvard.edu/catalog",
+            "URL": "https://online-learning.harvard.edu/catalog?keywords=&subject%5B%5D=84&paid%5B1%5D=1&max_price=&start_date_range%5Bmin%5D%5Bdate%5D=&start_date_range%5Bmax%5D%5Bdate%5D=",
             "Domain": "Data Science",
             "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=585"
+            "Image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1934&q=85"
           },
           {
             "Title": "Data Science: Inference and Modeling",
-            "URL": "https://online-learning.harvard.edu/catalog",
+            "URL": "https://online-learning.harvard.edu/catalog?keywords=&subject%5B%5D=84&paid%5B1%5D=1&max_price=&start_date_range%5Bmin%5D%5Bdate%5D=&start_date_range%5Bmax%5D%5Bdate%5D=",
             "Domain": "Data Science",
             "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=586"
+            "Image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1934&q=86"
           },
           {
             "Title": "Data Science: Capstone",
-            "URL": "https://online-learning.harvard.edu/catalog",
+            "URL": "https://online-learning.harvard.edu/catalog?keywords=&subject%5B%5D=84&paid%5B1%5D=1&max_price=&start_date_range%5Bmin%5D%5Bdate%5D=&start_date_range%5Bmax%5D%5Bdate%5D=",
             "Domain": "Data Science",
             "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=587"
+            "Image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1934&q=87"
           },
           {
             "Title": "Data Science: Productivity Tools",
-            "URL": "https://online-learning.harvard.edu/catalog",
+            "URL": "https://online-learning.harvard.edu/catalog?keywords=&subject%5B%5D=84&paid%5B1%5D=1&max_price=&start_date_range%5Bmin%5D%5Bdate%5D=&start_date_range%5Bmax%5D%5Bdate%5D=",
             "Domain": "Data Science",
             "Event": "Courses",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=588"
+            "Image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1934&q=88"
+          },
+          {
+            "Title": "CS50's Introduction to Game Development",
+            "URL": "https://online-learning.harvard.edu/catalog?keywords=&&paid%5B1%5D=1&max_price=&start_date_range%5Bmin%5D%5Bdate%5D=&start_date_range%5Bmax%5D%5Bdate%5D=",
+            "Domain": "Coding",
+            "Event": "Courses",
+            "Image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1934&q=89"
+          },
+          {
+            "Title": "CS50's Web Programming with Python and JavaScript",
+            "URL": "https://online-learning.harvard.edu/catalog?keywords=&&paid%5B1%5D=1&max_price=&start_date_range%5Bmin%5D%5Bdate%5D=&start_date_range%5Bmax%5D%5Bdate%5D=",
+            "Domain": "Web Development",
+            "Event": "Courses",
+            "Image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1934&q=90"
+          },
+          {
+            "Title": "CS50's Mobile App Development with React Native",
+            "URL": "https://online-learning.harvard.edu/catalog?keywords=&&paid%5B1%5D=1&max_price=&start_date_range%5Bmin%5D%5Bdate%5D=&start_date_range%5Bmax%5D%5Bdate%5D=",
+            "Domain": "Mobile Applications",
+            "Event": "Courses",
+            "Image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1934&q=91"
+          },
+          {
+            "Title": "Nonprofit Financial Stewardship Webinar: Introduction to Accounting and Financial Statements",
+            "URL": "https://online-learning.harvard.edu/catalog?keywords=&&paid%5B1%5D=1&max_price=&start_date_range%5Bmin%5D%5Bdate%5D=&start_date_range%5Bmax%5D%5Bdate%5D=",
+            "Domain": "Finance",
+            "Event": "Courses",
+            "Image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1934&q=92"
+          },
+          {
+            "Title": "CS50: Introduction to Computer Science",
+            "URL": "https://online-learning.harvard.edu/catalog?keywords=&&paid%5B1%5D=1&max_price=&start_date_range%5Bmin%5D%5Bdate%5D=&start_date_range%5Bmax%5D%5Bdate%5D=",
+            "Domain": "Coding",
+            "Event": "Courses",
+            "Image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1934&q=93"
+          },
+          {
+            "Title": "Statistical Inference and Modeling for High-throughput Experiments",
+            "URL": "https://online-learning.harvard.edu/catalog?keywords=&&paid%5B1%5D=1&max_price=&start_date_range%5Bmin%5D%5Bdate%5D=&start_date_range%5Bmax%5D%5Bdate%5D=",
+            "Domain": "Machine Learning",
+            "Event": "Courses",
+            "Image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1934&q=94"
+          },
+          {
+            "Title": "Introduction to Linear Models and Matrix Algebra",
+            "URL": "https://online-learning.harvard.edu/catalog?keywords=&&paid%5B1%5D=1&max_price=&start_date_range%5Bmin%5D%5Bdate%5D=&start_date_range%5Bmax%5D%5Bdate%5D=",
+            "Domain": "Machine Learning",
+            "Event": "Courses",
+            "Image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1934&q=95"
+          },
+          {
+            "Title": "Statistics and R",
+            "URL": "https://online-learning.harvard.edu/catalog?keywords=&&paid%5B1%5D=1&max_price=&start_date_range%5Bmin%5D%5Bdate%5D=&start_date_range%5Bmax%5D%5Bdate%5D=",
+            "Domain": "Data Science",
+            "Event": "Courses",
+            "Image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1934&q=96"
+          },
+          {
+            "Title": "Introduction to Digital Humanities",
+            "URL": "https://online-learning.harvard.edu/catalog?keywords=&&paid%5B1%5D=1&max_price=&start_date_range%5Bmin%5D%5Bdate%5D=&start_date_range%5Bmax%5D%5Bdate%5D=",
+            "Domain": "Management",
+            "Event": "Courses",
+            "Image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1934&q=97"
+          },
+          {
+            "Title": "Improving Your Business Through a Culture of Health",
+            "URL": "https://online-learning.harvard.edu/catalog?keywords=&&paid%5B1%5D=1&max_price=&start_date_range%5Bmin%5D%5Bdate%5D=&start_date_range%5Bmax%5D%5Bdate%5D=",
+            "Domain": "Finance",
+            "Event": "Courses",
+            "Image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1934&q=98"
+          },
+          {
+            "Title": "CS50's Introduction to Artificial Intelligence with Python",
+            "URL": "https://online-learning.harvard.edu/catalog?keywords=&&paid%5B1%5D=1&max_price=&start_date_range%5Bmin%5D%5Bdate%5D=&start_date_range%5Bmax%5D%5Bdate%5D=",
+            "Domain": "Artificial Intelligence",
+            "Event": "Courses",
+            "Image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1934&q=99"
+          },
+          {
+            "Title": "Entrepreneurship in Emerging Economies",
+            "URL": "https://online-learning.harvard.edu/catalog?keywords=&&paid%5B1%5D=1&max_price=&start_date_range%5Bmin%5D%5Bdate%5D=&start_date_range%5Bmax%5D%5Bdate%5D=",
+            "Domain": "Management",
+            "Event": "Courses",
+            "Image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1934&q=100"
+          },
+          {
+            "Title": "Introduction to Bioconductor",
+            "URL": "https://online-learning.harvard.edu/catalog?keywords=&&paid%5B1%5D=1&max_price=&start_date_range%5Bmin%5D%5Bdate%5D=&start_date_range%5Bmax%5D%5Bdate%5D=",
+            "Domain": "IoT",
+            "Event": "Courses",
+            "Image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1934&q=101"
+          },
+          {
+            "Title": "Introduction to Bioconductor",
+            "URL": "https://online-learning.harvard.edu/catalog?keywords=&&paid%5B1%5D=1&max_price=&start_date_range%5Bmin%5D%5Bdate%5D=&start_date_range%5Bmax%5D%5Bdate%5D=",
+            "Domain": "IoT",
+            "Event": "Courses",
+            "Image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1934&q=102"
+          },
+          {
+            "Title": "Java Programming",
+            "URL": "https://free.aicte-india.org/Java-Programming.php",
+            "Domain": "Java",
+            "Event": "Courses",
+            "Image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1934&q=103"
+          },
+          {
+            "Title": "Learn Python in Hindi",
+            "URL": "https://free.aicte-india.org/Learn-Python-in-Hindi.php",
+            "Domain": "Python",
+            "Event": "Courses",
+            "Image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1934&q=104"
+          },
+          {
+            "Title": "Free Google Courses - GoogleDigitalGarage",
+            "URL": "https://learndigital.withgoogle.com/digitalgarage/courses",
+            "Domain": "Coding",
+            "Event": "Courses",
+            "Image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1934&q=105"
           }
-    ],
-
-    "events": [
-      {
-        "Title": "July Circuits '20",
-        "URL": "https://www.hackerearth.com/challenges/",
-        "Domain": "Coding",
-        "Event": "Hackathons",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
-      },
-      {
-        "Title": "Esko Software Engineer Hiring Challenge",
-        "URL": "https://www.hackerearth.com/challenges/",
-        "Domain": "Coding",
-        "Event": "Hackathons",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=81"
-      },
-      {
-        "Title": "American Express Codestreet'20",
-        "URL": "https://www.hackerearth.com/challenges/",
-        "Domain": "Coding",
-        "Event": "Hackathons",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=82"
-      },
-      {
-        "Title": "Let the fight begin",
-        "URL": "https://www.hackerearth.com/challenges/",
-        "Domain": "Coding",
-        "Event": "Hackathons",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=83"
-      },
-      {
-        "Title": "Simplilearn Hiring Challenge 2020",
-        "URL": "https://www.hackerearth.com/challenges/",
-        "Domain": "Coding",
-        "Event": "Hackathons",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=84"
-      },
-      {
-        "Title": "iVoyant Developer Hiring Challenge",
-        "URL": "https://www.hackerearth.com/challenges/",
-        "Domain": "Coding",
-        "Event": "Hackathons",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=85"
-      },
-      {
-        "Title": "ThoughtWorks Fullstack Developer Hiring challenge - July 2020",
-        "URL": "https://www.hackerearth.com/challenges/",
-        "Domain": "Coding",
-        "Event": "Hackathons",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=86"
-      },
-      {
-        "Title": "Coda Global FullStack Superhero Hiring Challenge",
-        "URL": "https://www.hackerearth.com/challenges/",
-        "Domain": "Coding",
-        "Event": "Hackathons",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=87"
-      },
-      {
-        "Title": "Coda Global Frontend Superhero Hiring Challenge",
-        "URL": "https://www.hackerearth.com/challenges/",
-        "Domain": "Coding",
-        "Event": "Hackathons",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=88"
-      },
-      {
-        "Title": "Amagi ‘GO CLOUD’ Challenge",
-        "URL": "https://www.hackerearth.com/challenges/",
-        "Domain": "Coding",
-        "Event": "Hackathons",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=89"
-      },
-      {
-        "Title": "Alexa Skill Challenge: Alexa Conversations",
-        "URL": "https://dare2compete.com/e/hackathons/all",
-        "Domain": "Coding",
-        "Event": "Hackathons",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=90"
-      },
-      {
-        "Title": "AppSprint'20",
-        "URL": "https://dare2compete.com/e/hackathons/all",
-        "Domain": "Coding",
-        "Event": "Hackathons",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=91"
-      },
-      {
-        "Title": "Tech Takes on Unemployment Hackathon",
-        "URL": "https://dare2compete.com/e/hackathons/all",
-        "Domain": "Coding",
-        "Event": "Hackathons",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=92"
-      },
-      {
-        "Title": "Kryon Bot Camp",
-        "URL": "https://dare2compete.com/e/hackathons/all",
-        "Domain": "Coding",
-        "Event": "Hackathons",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=93"
-      },
-      {
-        "Title": "Nav Ujjwal E-Innovation Hackathon",
-        "URL": "https://dare2compete.com/e/hackathons/all",
-        "Domain": "Coding",
-        "Event": "Hackathons",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=94"
-      },
-      {
-        "Title": "Auth0",
-        "URL": "https://dare2compete.com/e/hackathons/all",
-        "Domain": "Coding",
-        "Event": "Hackathons",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=95"
-      },
-      {
-        "Title": "Delhi Hacks",
-        "URL": "https://dare2compete.com/e/hackathons/all",
-        "Domain": "Coding",
-        "Event": "Hackathons",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=96"
-      },
-      {
-        "Title": "Technology Landscape Study On Devices For Women Urination Assistance",
-        "URL": "https://dare2compete.com/e/hackathons/all",
-        "Domain": "Coding",
-        "Event": "Hackathons",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=97"
-      },
-      {
-        "Title": "TigerGraph",
-        "URL": "https://dare2compete.com/e/hackathons/all",
-        "Domain": "Coding",
-        "Event": "Hackathons",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=98"
-      },
-      {
-        "Title": "To The Moon And Hack",
-        "URL": "https://dare2compete.com/e/hackathons/all",
-        "Domain": "Coding",
-        "Event": "Hackathons",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=99"
-      },
-      {
-        "Title": "HackATL 2020",
-        "URL": "https://dare2compete.com/e/hackathons/all",
-        "Domain": "Coding",
-        "Event": "Hackathons",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=100"
-      },
-      {
-        "Title": "Bitcoin SV Hackathon",
-        "URL": "https://dare2compete.com/e/hackathons/all",
-        "Domain": "Coding",
-        "Event": "Hackathons",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=101"
-      },
-      {
-        "Title": "Global Hack 5G + RPA Technology",
-        "URL": "https://dare2compete.com/e/hackathons/all",
-        "Domain": "Coding",
-        "Event": "Hackathons",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=102"
-      },
-      {
-        "Title": "HarmonyHacks 2.0",
-        "URL": "https://dare2compete.com/e/hackathons/all",
-        "Domain": "Coding",
-        "Event": "Hackathons",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=103"
-      },
-      {
-        "Title": "MinorityProgrammers: Black Lives Matter Hackathon",
-        "URL": "https://dare2compete.com/e/hackathons/all",
-        "Domain": "Coding",
-        "Event": "Hackathons",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=104"
-      },
-      {
-        "Title": "Data Day Grind 2020",
-        "URL": "https://dare2compete.com/e/hackathons/all",
-        "Domain": "Coding",
-        "Event": "Hackathons",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=105"
-      },
-      {
-        "Title": "The Babylon Project",
-        "URL": "https://dare2compete.com/e/hackathons/all",
-        "Domain": "Coding",
-        "Event": "Hackathons",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=106"
-      }
-      
     ],
     "jobs":[
         {
@@ -1713,21 +394,93 @@
             "URL": "https://www.timesjobs.com/",
             "Domain": "Other",
             "Event": "Jobs",
-            "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=589"
+            "Image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
           },
           {
-            "Title": "Get Virtual Experience from JPMorganChase",
-            "URL": " Microsoft and more…",
-            "Domain": "https://in.insidesherpa.com/",
-            "Event": "Other",
-            "Image": "Trainings"
+            "Title": "Get Virtual Experience from JPMorganChase, Microsoft and more�",
+            "URL": "https://in.insidesherpa.com/",
+            "Domain": "Other",
+            "Event": "Trainings",
+            "Image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=81"
           },
           {
-            "Title": "Right time to get an Internship - Morgan Stanley",
-            "URL": " Dell",
-            "Domain": " IBM and more…",
-            "Event": "https://dare2compete.com/e/internships/all",
-            "Image": "Other"
+            "Title": "Right time to get an Internship - Morgan Stanley, Dell, IBM and more�",
+            "URL": "https://dare2compete.com/e/internships/all",
+            "Domain": "Other",
+            "Event": "Internships",
+            "Image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=82"
+          }
+    ],
+    "talks":[
+        {
+            "Title": "How to stay motivated during the CAT preparation? -By Lavanya Borra, 95.73 percentile, IIM Lucknow",
+            "URL": "https://dare2compete.com/bites/how-to-stay-motivated-during-the-cat-preparation-by-lavanya-borra-9573-percentile-iim-lucknow",
+            "Domain": "Higher Education",
+            "Event": "Talks",
+            "Image": "https://images.unsplash.com/photo-1531537571171-a707bf2683da?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80"
+          },
+          {
+            "Title": "The ABC of CAT preparation and mocks -By Mehendi Basu, 98.54 percentile, IIM Kozhikode",
+            "URL": "https://dare2compete.com/bites/the-abc-of-cat-preparation-and-mocks-by-mehendi-basu-9854-percentile-iim-kozhikode",
+            "Domain": "Higher Education",
+            "Event": "Talks",
+            "Image": "https://images.unsplash.com/photo-1531537571171-a707bf2683da?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=81"
+          },
+          {
+            "Title": "How to devise a smart strategy for CAT preparation? -By Nitish P Nair, 99.67 percentile, IIM Bangalore",
+            "URL": "https://dare2compete.com/bites/how-to-devise-a-smart-strategy-for-cat-preparation-by-nitish-p-nair-9967-percentile-iim-bangalore",
+            "Domain": "Higher Education",
+            "Event": "Talks",
+            "Image": "https://images.unsplash.com/photo-1531537571171-a707bf2683da?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=82"
+          },
+          {
+            "Title": "GRE 2020: Everything you need to know",
+            "URL": "https://dare2compete.com/bites/gre-101-everything-you-need-to-know-about-it",
+            "Domain": "Higher Education",
+            "Event": "Talks",
+            "Image": "https://images.unsplash.com/photo-1531537571171-a707bf2683da?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=83"
+          },
+          {
+            "Title": "GRE 2020: Preparation tips for a successful attempt!",
+            "URL": "https://dare2compete.com/bites/gre-2020-here-are-the-preparation-tips-for-a-successful-attempt",
+            "Domain": "Higher Education",
+            "Event": "Talks",
+            "Image": "https://images.unsplash.com/photo-1531537571171-a707bf2683da?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=84"
+          },
+          {
+            "Title": "Everything you need to know about GMAT",
+            "URL": "https://dare2compete.com/bites/gmat-heres-all-you-need-to-know",
+            "Domain": "Higher Education",
+            "Event": "Talks",
+            "Image": "https://images.unsplash.com/photo-1531537571171-a707bf2683da?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=85"
+          },
+          {
+            "Title": "MBA guide 2020: Best colleges offering Marketing courses in India",
+            "URL": "https://dare2compete.com/bites/mba-guide-2020-best-colleges-offering-marketing-courses-in-india",
+            "Domain": "Higher Education",
+            "Event": "Talks",
+            "Image": "https://images.unsplash.com/photo-1531537571171-a707bf2683da?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=86"
+          },
+          {
+            "Title": "IIFT 2020 Notification - Exam dates, pattern, syllabus",
+            "URL": "https://dare2compete.com/bites/iift-2020-notification-exam-dates-exam-pattern-syllabus-heres-all-you-need-to-know",
+            "Domain": "Higher Education",
+            "Event": "Talks",
+            "Image": "https://images.unsplash.com/photo-1531537571171-a707bf2683da?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=87"
+          },
+          {
+            "Title": "How I bagged a seat in B-School after scoring 96% in NMAT -By Divyanshi Srivastava from XAHR Bhubaneswar",
+            "URL": "https://dare2compete.com/bites/how-i-bagged-a-seat-in-b-school-after-scoring-96-in-nmat-divyanshi-srivastava-xahr-bhubaneswar",
+            "Domain": "Higher Education",
+            "Event": "Talks",
+            "Image": "https://images.unsplash.com/photo-1531537571171-a707bf2683da?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=88"
+          },
+          {
+            "Title": "Appearing for CAT was one of the best decisions of my career -By Akanksha Tandon from UBS Panjab University",
+            "URL": "https://dare2compete.com/bites/appearing-for-cat-was-one-of-the-best-decisions-of-my-career-akanksha-tandon-ubs-panjab-university",
+            "Domain": "Higher Education",
+            "Event": "Talks",
+            "Image": "https://images.unsplash.com/photo-1531537571171-a707bf2683da?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=89"
           }
     ]
-  }
+}
