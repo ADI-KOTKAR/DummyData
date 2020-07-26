@@ -97,30 +97,9 @@
         "Domain": "Coding",
         "Event": "Hackathons",
         "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=422"
-      },
-      {
-        "Title": "TigerGraph",
-        "URL": "https://dare2compete.com/o/tigergraph-2020-graphathon-tigergraph-117074",
-        "Domain": "Coding",
-        "Event": "Hackathons",
-        "Image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=423"
-      },
-      {
-        "Title": "Enroute - Campus to Corporate",
-        "URL": "https://dare2compete.com/o/enroute-campus-to-corporate-umbrella-aegis-119299",
-        "Domain": "Other",
-        "Event": "Workshop",
-        "Image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
       }
     ],
     "study": [
-      {
-        "Title": "Data Science: Wrangling",
-        "URL": "https://online-learning.harvard.edu/catalog?keywords=&subject%5B%5D=84&paid%5B1%5D=1&max_price=&start_date_range%5Bmin%5D%5Bdate%5D=&start_date_range%5Bmax%5D%5Bdate%5D=",
-        "Domain": "Data Science",
-        "Event": "Courses",
-        "Image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1934&q=80"
-      },
       {
         "Title": "Data Science: Visualization",
         "URL": "https://online-learning.harvard.edu/catalog?keywords=&subject%5B%5D=84&paid%5B1%5D=1&max_price=&start_date_range%5Bmin%5D%5Bdate%5D=&start_date_range%5Bmax%5D%5Bdate%5D=",
@@ -155,13 +134,6 @@
         "Domain": "Mobile Applications",
         "Event": "Courses",
         "Image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1934&q=91"
-      },
-      {
-        "Title": "CS50: Introduction to Computer Science",
-        "URL": "https://online-learning.harvard.edu/catalog?keywords=&&paid%5B1%5D=1&max_price=&start_date_range%5Bmin%5D%5Bdate%5D=&start_date_range%5Bmax%5D%5Bdate%5D=",
-        "Domain": "Coding",
-        "Event": "Courses",
-        "Image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1934&q=93"
       },
       {
         "Title": "Statistical Inference and Modeling for High-throughput Experiments",
@@ -250,13 +222,6 @@
         "Domain": "Higher Education",
         "Event": "Talks",
         "Image": "https://images.unsplash.com/photo-1531537571171-a707bf2683da?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=81"
-      },
-      {
-        "Title": "How to devise a smart strategy for CAT preparation? -By Nitish P Nair, 99.67 percentile, IIM Bangalore",
-        "URL": "https://dare2compete.com/bites/how-to-devise-a-smart-strategy-for-cat-preparation-by-nitish-p-nair-9967-percentile-iim-bangalore",
-        "Domain": "Higher Education",
-        "Event": "Talks",
-        "Image": "https://images.unsplash.com/photo-1531537571171-a707bf2683da?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=82"
       },
       {
         "Title": "GRE 2020: Everything you need to know",
