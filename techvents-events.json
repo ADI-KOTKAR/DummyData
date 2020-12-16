@@ -1,987 +1,1361 @@
 [{
   "_id": {
-    "$oid": "5fcf1a2069c6b9ebf7416b4c"
+    "$oid": "5fd9fdce5fc65d2fd4b1fc23"
   },
   "source_id": "E-1",
   "name": "dare2compete.com",
   "page": 1,
-  "title": " Advolution 6.0 ",
-  "conducted_by": " International Management Institute (IMI), New Delhi ",
-  "type1": " Play On D2C ",
+  "title": " Unilever ",
+  "conducted_by": " Product Development Manager ",
+  "type1": " Jobs ",
+  "type2": null,
+  "doamin1": " Arts & Science ",
+  "domain2": " Engineering ",
+  "dates": "15 Dec 2020  - 29 Dec 2020 ",
+  "url": "https://dare2compete.com/o/product-development-manager-unilever-140068",
+  "publishedAt": "12/16/2020, 18:00:06",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd894b3a2f73_1200px-Unilever.svg.png"
+},{
+  "_id": {
+    "$oid": "5fd9fdd35fc65d2fd4b1fc24"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 1,
+  "title": " Web Page and Logo Designing  - Transcendence 2020 ",
+  "conducted_by": " BMS Institute of Technology and Management (BMSITM), Bangalore ",
+  "type1": "Paid",
+  "type2": " Competitions ",
+  "doamin1": " Arts & Science ",
+  "domain2": " Engineering ",
+  "dates": "15 Dec 2020  - 29 Dec 2020 ",
+  "url": "https://dare2compete.com/o/web-page-and-logo-designing-transcendence-2020-bms-institute-of-technology-and-management-bmsitm-bangalore-140198",
+  "publishedAt": "12/16/2020, 18:00:11",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd9dedd2d726_Transcendence_2020__Transp_g.png"
+},{
+  "_id": {
+    "$oid": "5fd9fdd65fc65d2fd4b1fc25"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 1,
+  "title": " Mini Saga- The 50-Word Story Contest ",
+  "conducted_by": " globalshala ",
+  "type1": null,
+  "type2": null,
+  "doamin1": " Arts & Science ",
+  "domain2": " Literary ",
+  "dates": "15 Dec 2020  - 29 Dec 2020 ",
+  "url": "https://dare2compete.com/o/mini-saga-the-50-word-story-contest-globalshala-140195",
+  "publishedAt": "12/16/2020, 18:00:14",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd9d91ea5a92_mini-saga-v3-320x280.jpg"
+},{
+  "_id": {
+    "$oid": "5fd9fdd95fc65d2fd4b1fc26"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 1,
+  "title": " Shine in Divine (Webinar) ",
+  "conducted_by": " Manav Rachna International Institute of Research and Studies (MRIIRS), Faridabad ",
+  "type1": null,
+  "type2": null,
+  "doamin1": " Workshops ",
+  "domain2": null,
+  "dates": "15 Dec 2020  - 29 Dec 2020 ",
+  "url": "https://dare2compete.com/o/shine-in-divine-webinar-manav-rachna-international-institute-of-research-and-studies-mriirs-faridabad-140189",
+  "publishedAt": "12/16/2020, 18:00:17",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd9d3b7e80a3_IMG-20201214-WA0001.jpg"
+},{
+  "_id": {
+    "$oid": "5fd9fddc5fc65d2fd4b1fc27"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 1,
+  "title": " The Financial- Article Writing Competition ",
+  "conducted_by": " Narsee Monjee Institute of Management Studies (NMIMS), Mumbai ",
+  "type1": " Competitions ",
+  "type2": null,
+  "doamin1": " Business ",
+  "domain2": " Article Writing ",
+  "dates": "15 Dec 2020  - 29 Dec 2020 ",
+  "url": "https://dare2compete.com/o/the-financial-article-writing-competition-narsee-monjee-institute-of-management-studies-nmims-mumbai-140184",
+  "publishedAt": "12/16/2020, 18:00:20",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd9cb29ba8db_Finomenon.jpeg"
+},{
+  "_id": {
+    "$oid": "5fd9fde05fc65d2fd4b1fc28"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 1,
+  "title": " Xtempo  - Transcendence 2020 ",
+  "conducted_by": " BMS Institute of Technology and Management (BMSITM), Bangalore ",
+  "type1": "Paid",
   "type2": " Competitions ",
   "doamin1": " Business ",
-  "domain2": " Business Plan ",
-  "dates": "08 Dec 2020  - 08 Jan 2021 ",
-  "url": "https://dare2compete.com/o/advolution-60-international-management-institute-imi-new-delhi-139099",
-  "publishedAt": "12/08/2020, 11:46:00",
+  "domain2": " Engineering ",
+  "dates": "15 Dec 2020  - 29 Dec 2020 ",
+  "url": "https://dare2compete.com/o/xtempo-transcendence-2020-bms-institute-of-technology-and-management-bmsitm-bangalore-140196",
+  "publishedAt": "12/16/2020, 18:00:24",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd9dcff1e030_Transcendence_2020__Transp_g.png"
+},{
+  "_id": {
+    "$oid": "5fd9fde35fc65d2fd4b1fc29"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 1,
+  "title": " Bridge MBA Program - Introduction to Business Management ",
+  "conducted_by": " Tesseract Education ",
+  "type1": "Paid",
+  "type2": null,
+  "doamin1": " Business ",
+  "domain2": " Engineering ",
+  "dates": "15 Dec 2020  - 29 Dec 2020 ",
+  "url": "https://dare2compete.com/o/bridge-mba-program-introduction-to-business-management-tesseract-education-140174",
+  "publishedAt": "12/16/2020, 18:00:27",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd9b8c761575_Insta3.png"
+},{
+  "_id": {
+    "$oid": "5fd9fde65fc65d2fd4b1fc2a"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 1,
+  "title": " Christmas Bible Quiz Fundraiser 🌟  - Quizzes for Charity's Annual Christmas Fundraiser ",
+  "conducted_by": " Quizzes for Charity ",
+  "type1": "Paid",
+  "type2": " Quizzes ",
+  "doamin1": null,
+  "domain2": null,
+  "dates": "15 Dec 2020  - 29 Dec 2020 ",
+  "url": "https://dare2compete.com/o/annual-christmas-bible-quiz-fundraiser-quizzes-for-charitys-annual-christmas-fundraiser-quizzes-for-charity-140076",
+  "publishedAt": "12/16/2020, 18:00:30",
   "urlToImage": null
 },{
   "_id": {
-    "$oid": "5fcf1a2869c6b9ebf7416b4d"
+    "$oid": "5fd9fdea5fc65d2fd4b1fc2b"
   },
   "source_id": "E-1",
   "name": "dare2compete.com",
   "page": 1,
-  "title": " AdSense  - 7 Lakes Fest - IIM Calcutta ",
-  "conducted_by": " Indian Institute of Management (IIM), Calcutta ",
+  "title": " StarHacks ",
+  "conducted_by": " StarHacks ",
+  "type1": null,
+  "type2": null,
+  "doamin1": " Engineering ",
+  "domain2": null,
+  "dates": "15 Dec 2020  - 29 Dec 2020 ",
+  "url": "https://dare2compete.com/o/starhacks-starhacks-140197",
+  "publishedAt": "12/16/2020, 18:00:34",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd9dd32bc828_e72fdd_fd72449b5cee419199e01a82e11adc66_mv2.png"
+},{
+  "_id": {
+    "$oid": "5fd9fded5fc65d2fd4b1fc2c"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 1,
+  "title": " QuizBizz's Pop Culture Quiz ",
+  "conducted_by": " Bhilai Institute of Technology (BIT), Durg ",
+  "type1": "Paid",
+  "type2": " Quizzes ",
+  "doamin1": " Online Quiz ",
+  "domain2": null,
+  "dates": "15 Dec 2020  - 29 Dec 2020 ",
+  "url": "https://dare2compete.com/o/quizbizzs-pop-culture-quiz-bhilai-institute-of-technology-bit-durg-140037",
+  "publishedAt": "12/16/2020, 18:00:37",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd8637107bb6_QUIZBIZZ_LOGO.PNG"
+},{
+  "_id": {
+    "$oid": "5fd9fdf05fc65d2fd4b1fc2d"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 1,
+  "title": " Hack the Northeast Beyond ",
+  "conducted_by": " Hack the Northeast ",
+  "type1": null,
+  "type2": null,
+  "doamin1": " Engineering ",
+  "domain2": null,
+  "dates": "15 Dec 2020  - 29 Dec 2020 ",
+  "url": "https://dare2compete.com/o/hack-the-northeast-beyond-hack-the-northeast-140178",
+  "publishedAt": "12/16/2020, 18:00:40",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd9ceef30e48_medium__32_.png"
+},{
+  "_id": {
+    "$oid": "5fd9fdf35fc65d2fd4b1fc2e"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 1,
+  "title": " Modus Operandi  - Purvodaya '21 ",
+  "conducted_by": " Vinod Gupta School of Management (VGSoM), Indian Institute of Technology (IIT), Kharagpur ",
   "type1": " Play On D2C ",
   "type2": " Competitions ",
   "doamin1": " Business ",
   "domain2": " Case Study ",
-  "dates": "08 Dec 2020  - 08 Jan 2021 ",
-  "url": "https://dare2compete.com/o/adsense-7-lakes-fest-iim-calcutta-indian-institute-of-management-iim-calcutta-139190",
-  "publishedAt": "12/08/2020, 11:46:08",
-  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fce66d30e488_size.jpg"
+  "dates": "15 Dec 2020  - 29 Dec 2020 ",
+  "url": "https://dare2compete.com/o/modus-operandi-purvodaya-21-vinod-gupta-school-of-management-vgsom-indian-institute-of-technology-iit-kharagpur-140132",
+  "publishedAt": "12/16/2020, 18:00:43",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd8fb94d386e_purvodaya-logo.png"
 },{
   "_id": {
-    "$oid": "5fcf1a2c69c6b9ebf7416b4e"
+    "$oid": "5fd9fdf75fc65d2fd4b1fc2f"
   },
   "source_id": "E-1",
   "name": "dare2compete.com",
   "page": 1,
-  "title": " Quizzical ",
-  "conducted_by": " Xavier Institute of Management (XIMB), Bhubaneswar ",
+  "title": " Know Your Bazaar ",
+  "conducted_by": " Narsee Monjee Institute of Management Studies (NMIMS), Navi Mumbai ",
   "type1": " Play On D2C ",
-  "type2": " Quizzes ",
+  "type2": " Competitions ",
   "doamin1": " Business ",
-  "domain2": " College Festival ",
-  "dates": "08 Dec 2020  - 08 Jan 2021 ",
-  "url": "https://dare2compete.com/o/quizzical-xavier-institute-of-management-ximb-bhubaneswar-139183",
-  "publishedAt": "12/08/2020, 11:46:12",
-  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fce5bc825222_Quizzicle_Creative.jpg"
+  "domain2": " Case Study ",
+  "dates": "15 Dec 2020  - 29 Dec 2020 ",
+  "url": "https://dare2compete.com/o/know-your-bazaar-narsee-monjee-institute-of-management-studies-nmims-navi-mumbai-139959",
+  "publishedAt": "12/16/2020, 18:00:47",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd9a27105a8f_WhatsApp_Image_2020-12-16_at_11.22.00_AM.jpeg"
 },{
   "_id": {
-    "$oid": "5fcf1a2f69c6b9ebf7416b4f"
+    "$oid": "5fd9fdfa5fc65d2fd4b1fc30"
   },
   "source_id": "E-1",
   "name": "dare2compete.com",
   "page": 1,
+  "title": " Parishram  - Purvodaya '21 ",
+  "conducted_by": " Vinod Gupta School of Management (VGSoM), Indian Institute of Technology (IIT), Kharagpur ",
+  "type1": " Play On D2C ",
+  "type2": " Competitions ",
+  "doamin1": " Business ",
+  "domain2": " Case Study ",
+  "dates": "15 Dec 2020  - 29 Dec 2020 ",
+  "url": "https://dare2compete.com/o/parishram-purvodaya-21-vinod-gupta-school-of-management-vgsom-indian-institute-of-technology-iit-kharagpur-140162",
+  "publishedAt": "12/16/2020, 18:00:50",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd99ae56b876_purvodaya-logo.png"
+},{
+  "_id": {
+    "$oid": "5fd9fdfd5fc65d2fd4b1fc31"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 1,
+  "title": " Guide2Success ",
+  "conducted_by": " Marketing (Live Project) ",
+  "type1": " Internships ",
+  "type2": null,
+  "doamin1": " Business ",
+  "domain2": " Marketing ",
+  "dates": "15 Dec 2020  - 29 Dec 2020 ",
+  "url": "https://dare2compete.com/o/marketing-live-project-guide2success-140160",
+  "publishedAt": "12/16/2020, 18:00:53",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd9937608165_leaf.png"
+},{
+  "_id": {
+    "$oid": "5fd9fe005fc65d2fd4b1fc32"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 1,
+  "title": " Masterclass on Discovering Sensor Series ",
+  "conducted_by": " Pragyatmika ",
+  "type1": null,
+  "type2": null,
+  "doamin1": " Designing ",
+  "domain2": " Hackathon ",
+  "dates": "15 Dec 2020  - 29 Dec 2020 ",
+  "url": "https://dare2compete.com/o/masterclass-on-discovering-sensor-series-pragyatmika-140152",
+  "publishedAt": "12/16/2020, 18:00:56",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd91c2296c43_Logo.jpg"
+},{
+  "_id": {
+    "$oid": "5fd9fe045fc65d2fd4b1fc33"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 1,
+  "title": " Christmas Quiz ",
+  "conducted_by": " Novus Minds Initiative ",
+  "type1": "Paid",
+  "type2": " Quizzes ",
+  "doamin1": " Arts & Science ",
+  "domain2": null,
+  "dates": "15 Dec 2020  - 29 Dec 2020 ",
+  "url": "https://dare2compete.com/o/christmas-quiz-novus-minds-initiative-140143",
+  "publishedAt": "12/16/2020, 18:01:00",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd901ec0d3a8_NMI.jpg"
+},{
+  "_id": {
+    "$oid": "5fd9fe075fc65d2fd4b1fc34"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 1,
+  "title": " Guess the Logo v2 ",
+  "conducted_by": " Time Harvester ",
+  "type1": "Paid",
+  "type2": " Play On D2C ",
+  "doamin1": " Online Quiz ",
+  "domain2": null,
+  "dates": "15 Dec 2020  - 29 Dec 2020 ",
+  "url": "https://dare2compete.com/o/guess-the-logo-v2-time-harvester-140133",
+  "publishedAt": "12/16/2020, 18:01:03",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd8f1cb8cce8_TH_Logo.jpg"
+},{
+  "_id": {
+    "$oid": "5fd9fe0a5fc65d2fd4b1fc35"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 1,
+  "title": " Synergy – A Competition for Stock Market Enthusiasts  - Purvodaya '21 ",
+  "conducted_by": " Vinod Gupta School of Management (VGSoM), Indian Institute of Technology (IIT), Kharagpur ",
+  "type1": " Play On D2C ",
+  "type2": " Competitions ",
+  "doamin1": " Business ",
+  "domain2": " Case Study ",
+  "dates": "15 Dec 2020  - 29 Dec 2020 ",
+  "url": "https://dare2compete.com/o/synergy-a-competition-for-stock-market-enthusiasts-purvodaya-21-vinod-gupta-school-of-management-vgsom-indian-institut-140126",
+  "publishedAt": "12/16/2020, 18:01:06",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd8e5e298252_Purvodaya_Logo_-_Copy.png"
+},{
+  "_id": {
+    "$oid": "5fd9fe0d5fc65d2fd4b1fc36"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 1,
+  "title": "  Founder's Day | THINC Inter-B-School Online Competition ",
+  "conducted_by": " Faculty of Management Studies (FMS), Delhi ",
+  "type1": " Competitions ",
+  "type2": null,
+  "doamin1": " Business ",
+  "domain2": " Conclave ",
+  "dates": "15 Dec 2020  - 29 Dec 2020 ",
+  "url": "https://dare2compete.com/o/founders-day-thinc-inter-b-school-online-competition-faculty-of-management-studies-fms-delhi-140092",
+  "publishedAt": "12/16/2020, 18:01:09",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd8fabbc4597_eUTFGFTh.jpg"
+},{
+  "_id": {
+    "$oid": "5fd9fe1a5fc65d2fd4b1fc37"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " Hawkshaw  - TRISHNA 2K21 - The Official Management and Cultural Fest of IBS Hyderabad ",
+  "conducted_by": " ICFAI Business School (IBS), Hyderabad ",
+  "type1": " Competitions ",
+  "type2": null,
+  "doamin1": " Business ",
+  "domain2": " Engineering ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/hawkshaw-trishna-2k21-the-official-management-and-cultural-fest-of-ibs-hyderabad-icfai-business-school-ibs-hyderabad-140033",
+  "publishedAt": "12/16/2020, 18:01:22",
+  "urlToImage": null
+},{
+  "_id": {
+    "$oid": "5fd9fe1d5fc65d2fd4b1fc38"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " Rewind 2020 National Quiz Competition on Law & Polity ",
+  "conducted_by": " Amity Law School ",
+  "type1": "Paid",
+  "type2": " Quizzes ",
+  "doamin1": " Arts & Science ",
+  "domain2": " Online Quiz ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/rewind-2020-national-quiz-competition-on-law-polity-amity-law-school-140039",
+  "publishedAt": "12/16/2020, 18:01:25",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd867d038c7e_AMity_Logo.png"
+},{
+  "_id": {
+    "$oid": "5fd9fe1d5fc65d2fd4b1fc39"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " Hawkshaw  - TRISHNA 2K21 - The Official Management and Cultural Fest of IBS Hyderabad ",
+  "conducted_by": " ICFAI Business School (IBS), Hyderabad ",
+  "type1": " Competitions ",
+  "type2": null,
+  "doamin1": " Business ",
+  "domain2": " Engineering ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/hawkshaw-trishna-2k21-the-official-management-and-cultural-fest-of-ibs-hyderabad-icfai-business-school-ibs-hyderabad-140033",
+  "publishedAt": "12/16/2020, 18:01:25",
+  "urlToImage": null
+},{
+  "_id": {
+    "$oid": "5fd9fe1e5fc65d2fd4b1fc3a"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " Hawkshaw  - TRISHNA 2K21 - The Official Management and Cultural Fest of IBS Hyderabad ",
+  "conducted_by": " ICFAI Business School (IBS), Hyderabad ",
+  "type1": " Competitions ",
+  "type2": null,
+  "doamin1": " Business ",
+  "domain2": " Engineering ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/hawkshaw-trishna-2k21-the-official-management-and-cultural-fest-of-ibs-hyderabad-icfai-business-school-ibs-hyderabad-140033",
+  "publishedAt": "12/16/2020, 18:01:26",
+  "urlToImage": null
+},{
+  "_id": {
+    "$oid": "5fd9fe215fc65d2fd4b1fc3b"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " DFrame UI/UX Challenge  - UDGAM 2021  The Annual Entrepreneurship Summit of IIT Guwahati ",
+  "conducted_by": " Indian Institute of Technology (IIT), Guwahati ",
+  "type1": " Competitions ",
+  "type2": null,
+  "doamin1": " Arts & Science ",
+  "domain2": " Engineering ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/dframe-uiux-challenge-udgam-2021-the-annual-entrepreneurship-summit-of-iit-guwahati-indian-institute-of-technology-iit-139999",
+  "publishedAt": "12/16/2020, 18:01:29",
+  "urlToImage": null
+},{
+  "_id": {
+    "$oid": "5fd9fe245fc65d2fd4b1fc3c"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " Rewind 2020 National Quiz Competition on Law & Polity ",
+  "conducted_by": " Amity Law School ",
+  "type1": "Paid",
+  "type2": " Quizzes ",
+  "doamin1": " Arts & Science ",
+  "domain2": " Online Quiz ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/rewind-2020-national-quiz-competition-on-law-polity-amity-law-school-140039",
+  "publishedAt": "12/16/2020, 18:01:32",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd867d038c7e_AMity_Logo.png"
+},{
+  "_id": {
+    "$oid": "5fd9fe275fc65d2fd4b1fc3d"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " Rewind 2020 National Quiz Competition on Law & Polity ",
+  "conducted_by": " Amity Law School ",
+  "type1": "Paid",
+  "type2": " Quizzes ",
+  "doamin1": " Arts & Science ",
+  "domain2": " Online Quiz ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/rewind-2020-national-quiz-competition-on-law-polity-amity-law-school-140039",
+  "publishedAt": "12/16/2020, 18:01:35",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd867d038c7e_AMity_Logo.png"
+},{
+  "_id": {
+    "$oid": "5fd9fe2b5fc65d2fd4b1fc3e"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " Nykaa ",
+  "conducted_by": " Executive/Senior Executive - Sales ",
+  "type1": " Jobs ",
+  "type2": null,
+  "doamin1": " Business ",
+  "domain2": " Sales ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/executivesenior-executive-sales-nykaa-140026",
+  "publishedAt": "12/16/2020, 18:01:39",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd854bf9876d_download.png"
+},{
+  "_id": {
+    "$oid": "5fd9fe2e5fc65d2fd4b1fc3f"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " DFrame UI/UX Challenge  - UDGAM 2021  The Annual Entrepreneurship Summit of IIT Guwahati ",
+  "conducted_by": " Indian Institute of Technology (IIT), Guwahati ",
+  "type1": " Competitions ",
+  "type2": null,
+  "doamin1": " Arts & Science ",
+  "domain2": " Engineering ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/dframe-uiux-challenge-udgam-2021-the-annual-entrepreneurship-summit-of-iit-guwahati-indian-institute-of-technology-iit-139999",
+  "publishedAt": "12/16/2020, 18:01:42",
+  "urlToImage": null
+},{
+  "_id": {
+    "$oid": "5fd9fe315fc65d2fd4b1fc40"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " DFrame UI/UX Challenge  - UDGAM 2021  The Annual Entrepreneurship Summit of IIT Guwahati ",
+  "conducted_by": " Indian Institute of Technology (IIT), Guwahati ",
+  "type1": " Competitions ",
+  "type2": null,
+  "doamin1": " Arts & Science ",
+  "domain2": " Engineering ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/dframe-uiux-challenge-udgam-2021-the-annual-entrepreneurship-summit-of-iit-guwahati-indian-institute-of-technology-iit-139999",
+  "publishedAt": "12/16/2020, 18:01:45",
+  "urlToImage": null
+},{
+  "_id": {
+    "$oid": "5fd9fe345fc65d2fd4b1fc41"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " Asian Paints ",
+  "conducted_by": " Officer - Marketing ",
+  "type1": " Jobs ",
+  "type2": null,
+  "doamin1": " Business ",
+  "domain2": null,
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/officer-marketing-asian-paints-140004",
+  "publishedAt": "12/16/2020, 18:01:48",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd7b4c9d3ea3_Asian_Paints_logo_2012.png"
+},{
+  "_id": {
+    "$oid": "5fd9fe385fc65d2fd4b1fc42"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " Nykaa ",
+  "conducted_by": " Executive/Senior Executive - Sales ",
+  "type1": " Jobs ",
+  "type2": null,
+  "doamin1": " Business ",
+  "domain2": " Sales ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/executivesenior-executive-sales-nykaa-140026",
+  "publishedAt": "12/16/2020, 18:01:52",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd854bf9876d_download.png"
+},{
+  "_id": {
+    "$oid": "5fd9fe3b5fc65d2fd4b1fc43"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " Nykaa ",
+  "conducted_by": " Executive/Senior Executive - Sales ",
+  "type1": " Jobs ",
+  "type2": null,
+  "doamin1": " Business ",
+  "domain2": " Sales ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/executivesenior-executive-sales-nykaa-140026",
+  "publishedAt": "12/16/2020, 18:01:55",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd854bf9876d_download.png"
+},{
+  "_id": {
+    "$oid": "5fd9fe3e5fc65d2fd4b1fc44"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " Puzzle Hacker Cup ",
+  "conducted_by": " Facerecognitioncar ",
+  "type1": "Paid",
+  "type2": " Play On D2C ",
+  "doamin1": " Business ",
+  "domain2": " Engineering ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/puzzle-hacker-cup-facerecognitioncar-140017",
+  "publishedAt": "12/16/2020, 18:01:58",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd839e827e3f_cupp.jpg"
+},{
+  "_id": {
+    "$oid": "5fd9fe415fc65d2fd4b1fc45"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " Asian Paints ",
+  "conducted_by": " Officer - Marketing ",
+  "type1": " Jobs ",
+  "type2": null,
+  "doamin1": " Business ",
+  "domain2": null,
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/officer-marketing-asian-paints-140004",
+  "publishedAt": "12/16/2020, 18:02:01",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd7b4c9d3ea3_Asian_Paints_logo_2012.png"
+},{
+  "_id": {
+    "$oid": "5fd9fe455fc65d2fd4b1fc46"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " Asian Paints ",
+  "conducted_by": " Officer - Marketing ",
+  "type1": " Jobs ",
+  "type2": null,
+  "doamin1": " Business ",
+  "domain2": null,
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/officer-marketing-asian-paints-140004",
+  "publishedAt": "12/16/2020, 18:02:05",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd7b4c9d3ea3_Asian_Paints_logo_2012.png"
+},{
+  "_id": {
+    "$oid": "5fd9fe485fc65d2fd4b1fc47"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " Vignette 1.0 ",
+  "conducted_by": " Department of Management Studies (DMS), Indian Institutes of Technology (IIT) (ISM), Dhanbad ",
+  "type1": null,
+  "type2": null,
+  "doamin1": " Photography ",
+  "domain2": " Arts & Science ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/vignette-10-department-of-management-studies-dms-indian-institutes-of-technology-iit-ism-dhanbad-140000",
+  "publishedAt": "12/16/2020, 18:02:08",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd7b166077a4_5f6e034cf3cbe_IMG-20190823-WA0001.jpg"
+},{
+  "_id": {
+    "$oid": "5fd9fe4b5fc65d2fd4b1fc48"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " Puzzle Hacker Cup ",
+  "conducted_by": " Facerecognitioncar ",
+  "type1": "Paid",
+  "type2": " Play On D2C ",
+  "doamin1": " Business ",
+  "domain2": " Engineering ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/puzzle-hacker-cup-facerecognitioncar-140017",
+  "publishedAt": "12/16/2020, 18:02:11",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd839e827e3f_cupp.jpg"
+},{
+  "_id": {
+    "$oid": "5fd9fe4f5fc65d2fd4b1fc49"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " Puzzle Hacker Cup ",
+  "conducted_by": " Facerecognitioncar ",
+  "type1": "Paid",
+  "type2": " Play On D2C ",
+  "doamin1": " Business ",
+  "domain2": " Engineering ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/puzzle-hacker-cup-facerecognitioncar-140017",
+  "publishedAt": "12/16/2020, 18:02:15",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd839e827e3f_cupp.jpg"
+},{
+  "_id": {
+    "$oid": "5fd9fe525fc65d2fd4b1fc4a"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " PitchTeen Tech Startup Competition ",
+  "conducted_by": " PitchTeen ",
+  "type1": " Competitions ",
+  "type2": null,
+  "doamin1": " Business ",
+  "domain2": null,
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/pitchteen-tech-startup-competition-pitchteen-139990",
+  "publishedAt": "12/16/2020, 18:02:18",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd7a38a41dae_Pitchteen_logo.jpg"
+},{
+  "_id": {
+    "$oid": "5fd9fe555fc65d2fd4b1fc4b"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " Vignette 1.0 ",
+  "conducted_by": " Department of Management Studies (DMS), Indian Institutes of Technology (IIT) (ISM), Dhanbad ",
+  "type1": null,
+  "type2": null,
+  "doamin1": " Photography ",
+  "domain2": " Arts & Science ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/vignette-10-department-of-management-studies-dms-indian-institutes-of-technology-iit-ism-dhanbad-140000",
+  "publishedAt": "12/16/2020, 18:02:21",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd7b166077a4_5f6e034cf3cbe_IMG-20190823-WA0001.jpg"
+},{
+  "_id": {
+    "$oid": "5fd9fe585fc65d2fd4b1fc4c"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " Vignette 1.0 ",
+  "conducted_by": " Department of Management Studies (DMS), Indian Institutes of Technology (IIT) (ISM), Dhanbad ",
+  "type1": null,
+  "type2": null,
+  "doamin1": " Photography ",
+  "domain2": " Arts & Science ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/vignette-10-department-of-management-studies-dms-indian-institutes-of-technology-iit-ism-dhanbad-140000",
+  "publishedAt": "12/16/2020, 18:02:24",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd7b166077a4_5f6e034cf3cbe_IMG-20190823-WA0001.jpg"
+},{
+  "_id": {
+    "$oid": "5fd9fe5c5fc65d2fd4b1fc4d"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " CiviQ- Online Quiz Competition  - AAKAAR, IIT Bombay ",
+  "conducted_by": " Indian Institute of Technology (IIT), Bombay ",
+  "type1": " Quizzes ",
+  "type2": null,
+  "doamin1": " Engineering ",
+  "domain2": " Online Quiz ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/civiq-online-quiz-competition-indian-institute-of-technology-iit-bombay-139975",
+  "publishedAt": "12/16/2020, 18:02:28",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd7778231dd3_logo.png"
+},{
+  "_id": {
+    "$oid": "5fd9fe5f5fc65d2fd4b1fc4e"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " PitchTeen Tech Startup Competition ",
+  "conducted_by": " PitchTeen ",
+  "type1": " Competitions ",
+  "type2": null,
+  "doamin1": " Business ",
+  "domain2": null,
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/pitchteen-tech-startup-competition-pitchteen-139990",
+  "publishedAt": "12/16/2020, 18:02:31",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd7a38a41dae_Pitchteen_logo.jpg"
+},{
+  "_id": {
+    "$oid": "5fd9fe625fc65d2fd4b1fc4f"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " PitchTeen Tech Startup Competition ",
+  "conducted_by": " PitchTeen ",
+  "type1": " Competitions ",
+  "type2": null,
+  "doamin1": " Business ",
+  "domain2": null,
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/pitchteen-tech-startup-competition-pitchteen-139990",
+  "publishedAt": "12/16/2020, 18:02:34",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd7a38a41dae_Pitchteen_logo.jpg"
+},{
+  "_id": {
+    "$oid": "5fd9fe655fc65d2fd4b1fc50"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " AdTract  - IMPELZ 7.0 ",
+  "conducted_by": " Institute of Management Technology (IMT), Hyderabad ",
+  "type1": " Competitions ",
+  "type2": null,
+  "doamin1": " Case Study ",
+  "domain2": " Online Quiz ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/adtract-impelz-70-institute-of-management-technology-imt-hyderabad-139932",
+  "publishedAt": "12/16/2020, 18:02:37",
+  "urlToImage": null
+},{
+  "_id": {
+    "$oid": "5fd9fe695fc65d2fd4b1fc51"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " CiviQ- Online Quiz Competition  - AAKAAR, IIT Bombay ",
+  "conducted_by": " Indian Institute of Technology (IIT), Bombay ",
+  "type1": " Quizzes ",
+  "type2": null,
+  "doamin1": " Engineering ",
+  "domain2": " Online Quiz ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/civiq-online-quiz-competition-indian-institute-of-technology-iit-bombay-139975",
+  "publishedAt": "12/16/2020, 18:02:41",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd7778231dd3_logo.png"
+},{
+  "_id": {
+    "$oid": "5fd9fe6c5fc65d2fd4b1fc52"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " CiviQ- Online Quiz Competition  - AAKAAR, IIT Bombay ",
+  "conducted_by": " Indian Institute of Technology (IIT), Bombay ",
+  "type1": " Quizzes ",
+  "type2": null,
+  "doamin1": " Engineering ",
+  "domain2": " Online Quiz ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/civiq-online-quiz-competition-indian-institute-of-technology-iit-bombay-139975",
+  "publishedAt": "12/16/2020, 18:02:44",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd7778231dd3_logo.png"
+},{
+  "_id": {
+    "$oid": "5fd9fe6f5fc65d2fd4b1fc53"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " Iris 4.0  - TRISHNA 2K21 - The Official Management and Cultural Fest of IBS Hyderabad ",
+  "conducted_by": " ICFAI Business School (IBS), Hyderabad ",
+  "type1": null,
+  "type2": null,
+  "doamin1": " Business ",
+  "domain2": " Arts & Science ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/iris-40-trishna-2k21-the-official-management-and-cultural-fest-of-ibs-hyderabad-icfai-business-school-ibs-hyderabad-139939",
+  "publishedAt": "12/16/2020, 18:02:47",
+  "urlToImage": null
+},{
+  "_id": {
+    "$oid": "5fd9fe735fc65d2fd4b1fc54"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " AdTract  - IMPELZ 7.0 ",
+  "conducted_by": " Institute of Management Technology (IMT), Hyderabad ",
+  "type1": " Competitions ",
+  "type2": null,
+  "doamin1": " Case Study ",
+  "domain2": " Online Quiz ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/adtract-impelz-70-institute-of-management-technology-imt-hyderabad-139932",
+  "publishedAt": "12/16/2020, 18:02:51",
+  "urlToImage": null
+},{
+  "_id": {
+    "$oid": "5fd9fe765fc65d2fd4b1fc55"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " AdTract  - IMPELZ 7.0 ",
+  "conducted_by": " Institute of Management Technology (IMT), Hyderabad ",
+  "type1": " Competitions ",
+  "type2": null,
+  "doamin1": " Case Study ",
+  "domain2": " Online Quiz ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/adtract-impelz-70-institute-of-management-technology-imt-hyderabad-139932",
+  "publishedAt": "12/16/2020, 18:02:54",
+  "urlToImage": null
+},{
+  "_id": {
+    "$oid": "5fd9fe795fc65d2fd4b1fc56"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
   "title": " Summachar Sunday SuperQuiz ",
   "conducted_by": " Summachar ",
   "type1": " Quizzes ",
   "type2": null,
   "doamin1": " Online Quiz ",
   "domain2": null,
-  "dates": "08 Dec 2020  - 08 Jan 2021 ",
-  "url": "https://dare2compete.com/o/summachar-sunday-superquiz-summachar-139172",
-  "publishedAt": "12/08/2020, 11:46:15",
-  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fce34850ca78_geekroute.jpg"
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/summachar-sunday-superquiz-summachar-139952",
+  "publishedAt": "12/16/2020, 18:02:57",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd7503456ae3_food.jpg"
 },{
   "_id": {
-    "$oid": "5fcf1a3369c6b9ebf7416b50"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 1,
-  "title": " International Civil Engineering Symposium 2021 Paper Presentation  - AAKAAR, IIT Bombay ",
-  "conducted_by": " Indian Institute of Technology (IIT), Bombay ",
-  "type1": " Competitions ",
-  "type2": null,
-  "doamin1": " Engineering ",
-  "domain2": " Conclave ",
-  "dates": "08 Dec 2020  - 08 Jan 2021 ",
-  "url": "https://dare2compete.com/o/paper-presentation-international-civil-engineering-symposium-2021-aakaar-iit-bombay-indian-institute-of-technology-iit-139160",
-  "publishedAt": "12/08/2020, 11:46:19",
-  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fce1be4bda2d_WhatsApp_Image_2020-12-06_at_11.00.46_PM.jpeg"
-},{
-  "_id": {
-    "$oid": "5fcf1a3669c6b9ebf7416b51"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 1,
-  "title": " Gyan Wars ",
-  "conducted_by": " K.J. Somaiya Institute of Management (KJ SIM), Mumbai ",
-  "type1": " Play On D2C ",
-  "type2": " Quizzes ",
-  "doamin1": " Business ",
-  "domain2": " Online Quiz ",
-  "dates": "08 Dec 2020  - 08 Jan 2021 ",
-  "url": "https://dare2compete.com/o/gyan-wars-kj-somaiya-institute-of-management-kj-sim-mumbai-139149",
-  "publishedAt": "12/08/2020, 11:46:22",
-  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fce02bf13043_gita_club_logo.jpeg"
-},{
-  "_id": {
-    "$oid": "5fcf1a3a69c6b9ebf7416b52"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 1,
-  "title": " Envision the Future 2021 Dell Technologies Graduation Project Competition ",
-  "conducted_by": " Dell Technologies ",
-  "type1": " Competitions ",
-  "type2": null,
-  "doamin1": " Engineering ",
-  "domain2": " Arts & Science ",
-  "dates": "08 Dec 2020  - 08 Jan 2021 ",
-  "url": "https://dare2compete.com/o/envision-the-future-2021-dell-technologies-graduation-project-competition-dell-technologies-139150",
-  "publishedAt": "12/08/2020, 11:46:26",
-  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fce02efb86ff_dell_technologies_logo.png"
-},{
-  "_id": {
-    "$oid": "5fcf1a3d69c6b9ebf7416b53"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 1,
-  "title": " Emerging Entrepreneurs  - XLRI Entrepreneurship Summit ",
-  "conducted_by": " E-Cell, XLRI ",
-  "type1": " Competitions ",
-  "type2": null,
-  "doamin1": " Business Plan ",
-  "domain2": " Entrepreneurship ",
-  "dates": "08 Dec 2020  - 08 Jan 2021 ",
-  "url": "https://dare2compete.com/o/emerging-entrepreneurs-xlri-entrepreneurship-summit-e-cell-xlri-139141",
-  "publishedAt": "12/08/2020, 11:46:29",
-  "urlToImage": null
-},{
-  "_id": {
-    "$oid": "5fcf1a4169c6b9ebf7416b54"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 1,
-  "title": " The Business Quiz  - 7 Lakes Fest - IIM Calcutta ",
-  "conducted_by": " Indian Institute of Management (IIM), Calcutta ",
-  "type1": " Play On D2C ",
-  "type2": " Quizzes ",
-  "doamin1": " Business ",
-  "domain2": " Engineering ",
-  "dates": "08 Dec 2020  - 08 Jan 2021 ",
-  "url": "https://dare2compete.com/o/the-business-quiz-7-lakes-fest-iim-calcutta-indian-institute-of-management-iim-calcutta-139142",
-  "publishedAt": "12/08/2020, 11:46:33",
-  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fcdea154ab8a_size.jpg"
-},{
-  "_id": {
-    "$oid": "5fcf1a4469c6b9ebf7416b55"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 1,
-  "title": " Group Discussion Migration of the Millennial Workforce towards Startups ",
-  "conducted_by": " Dare2Discuss ",
-  "type1": " Competitions ",
-  "type2": null,
-  "doamin1": " Business ",
-  "domain2": " Entrepreneurship ",
-  "dates": "08 Dec 2020  - 08 Jan 2021 ",
-  "url": "https://dare2compete.com/o/group-discussion-migration-of-the-millennial-workforce-towards-startups-dare2discuss-139148",
-  "publishedAt": "12/08/2020, 11:46:36",
-  "urlToImage": null
-},{
-  "_id": {
-    "$oid": "5fcf1a4869c6b9ebf7416b56"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 1,
-  "title": " Marketing Chakravyuh ",
-  "conducted_by": " Jaipuria Institute of Management (JIM), Indore ",
-  "type1": " Play On D2C ",
-  "type2": " Competitions ",
-  "doamin1": " Business ",
-  "domain2": " Case Study ",
-  "dates": "08 Dec 2020  - 08 Jan 2021 ",
-  "url": "https://dare2compete.com/o/marketing-chakravyuh-jaipuria-institute-of-management-jim-indore-139140",
-  "publishedAt": "12/08/2020, 11:46:40",
-  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fcde5ec04a60_JPI101320LO_Chakarvuyh_Logo_1.jpg"
-},{
-  "_id": {
-    "$oid": "5fcf1a4b69c6b9ebf7416b57"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 1,
-  "title": " DelTech E-MUN 2020 ",
-  "conducted_by": " DelTech USME, DTU ",
-  "type1": "Paid",
-  "type2": " Competitions ",
-  "doamin1": " Conference ",
-  "domain2": null,
-  "dates": "08 Dec 2020  - 08 Jan 2021 ",
-  "url": "https://dare2compete.com/o/deltech-e-mun-2020-deltech-usme-dtu-139139",
-  "publishedAt": "12/08/2020, 11:46:43",
-  "urlToImage": null
-},{
-  "_id": {
-    "$oid": "5fcf1a4f69c6b9ebf7416b58"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 1,
-  "title": " Le Roi Operationnel ",
-  "conducted_by": " Amity Business School (ABS), Noida ",
-  "type1": " Play On D2C ",
-  "type2": " Competitions ",
-  "doamin1": " Business ",
-  "domain2": " Strategy ",
-  "dates": "08 Dec 2020  - 08 Jan 2021 ",
-  "url": "https://dare2compete.com/o/le-roi-operationnel-amity-business-school-abs-noida-139138",
-  "publishedAt": "12/08/2020, 11:46:47",
-  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fcde10f16276_WhatsApp_Image_2020-12-01_at_11.18.55_PM.jpeg"
-},{
-  "_id": {
-    "$oid": "5fcf1a5269c6b9ebf7416b59"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 1,
-  "title": " Business Analytics Quizzer  - 1st National Business Analytics Conclave ",
-  "conducted_by": " KIIT School of Management (KSOM), Bhubaneswar ",
-  "type1": " Quizzes ",
-  "type2": null,
-  "doamin1": " Business ",
-  "domain2": " Engineering ",
-  "dates": "08 Dec 2020  - 08 Jan 2021 ",
-  "url": "https://dare2compete.com/o/business-analytics-quizzer-1st-national-business-analytics-conclave-quizzer-kiit-school-of-management-ksom-bhubaneswar-139132",
-  "publishedAt": "12/08/2020, 11:46:50",
-  "urlToImage": "https://d8it4huxumps7.cloudfront.net/images/partners/partners75/528ec23a469ea.png"
-},{
-  "_id": {
-    "$oid": "5fcf1a5569c6b9ebf7416b5a"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 1,
-  "title": " The 7 Deadly Sins Quiz  - 7 Lakes Fest - IIM Calcutta ",
-  "conducted_by": " Indian Institute of Management (IIM), Calcutta ",
-  "type1": " Play On D2C ",
-  "type2": " Quizzes ",
-  "doamin1": " Business ",
-  "domain2": " Engineering ",
-  "dates": "08 Dec 2020  - 08 Jan 2021 ",
-  "url": "https://dare2compete.com/o/the-7-deadly-sins-quiz-7-lakes-fest-iim-calcutta-indian-institute-of-management-iim-calcutta-139136",
-  "publishedAt": "12/08/2020, 11:46:53",
-  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fcde0ad54cc2_size.jpg"
-},{
-  "_id": {
-    "$oid": "5fcf1a5969c6b9ebf7416b5b"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 1,
-  "title": " National Digital Marketing Quiz ",
-  "conducted_by": " Daily Corridor ",
-  "type1": "Paid",
-  "type2": " Play On D2C ",
-  "doamin1": " Business ",
-  "domain2": " Engineering ",
-  "dates": "08 Dec 2020  - 08 Jan 2021 ",
-  "url": "https://dare2compete.com/o/national-finance-quiz-daily-corridor-139127",
-  "publishedAt": "12/08/2020, 11:46:57",
-  "urlToImage": null
-},{
-  "_id": {
-    "$oid": "5fcf1a5d69c6b9ebf7416b5c"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 1,
-  "title": " The General Quiz  - 7 Lakes Fest - IIM Calcutta ",
-  "conducted_by": " Indian Institute of Management (IIM), Calcutta ",
-  "type1": " Play On D2C ",
-  "type2": " Quizzes ",
-  "doamin1": " Arts & Science ",
-  "domain2": null,
-  "dates": "08 Dec 2020  - 08 Jan 2021 ",
-  "url": "https://dare2compete.com/o/the-general-quiz-7-lakes-fest-iim-calcutta-indian-institute-of-management-iim-calcutta-139128",
-  "publishedAt": "12/08/2020, 11:47:01",
-  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fcdd82d838d0_logo.jpg"
-},{
-  "_id": {
-    "$oid": "5fcf1a6169c6b9ebf7416b5d"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 1,
-  "title": " National Marketing Quiz ",
-  "conducted_by": " DigiDose ",
-  "type1": "Paid",
-  "type2": " Play On D2C ",
-  "doamin1": " Business ",
-  "domain2": " Engineering ",
-  "dates": "08 Dec 2020  - 08 Jan 2021 ",
-  "url": "https://dare2compete.com/o/national-marketing-quiz-digidose-139119",
-  "publishedAt": "12/08/2020, 11:47:05",
-  "urlToImage": null
-},{
-  "_id": {
-    "$oid": "5fcf1a6469c6b9ebf7416b5e"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 1,
-  "title": " Techno-Management Development Programme (T-MDP) on Extruded Food Products Manufacturing ",
-  "conducted_by": " Indian Institute of Plantation Management (IIPM), Bangalore, Karnataka ",
-  "type1": "Paid",
-  "type2": " Workshops ",
-  "doamin1": " Arts & Science ",
-  "domain2": " Entrepreneurship ",
-  "dates": "08 Dec 2020  - 08 Jan 2021 ",
-  "url": "https://dare2compete.com/o/techno-management-development-programme-t-mdp-on-extruded-food-products-manufacturing-indian-institute-of-plantation-m-139118",
-  "publishedAt": "12/08/2020, 11:47:08",
-  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fcdcf0a934a3_IIPM_Good_Logo.jpg"
-},{
-  "_id": {
-    "$oid": "5fcf1a6869c6b9ebf7416b5f"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 1,
-  "title": " OpsMagnum- The Article Writing Competition ",
-  "conducted_by": " Indian Institute of Foreign Trade (IIFT), Delhi ",
-  "type1": " Competitions ",
-  "type2": null,
-  "doamin1": " Business ",
-  "domain2": " Article Writing ",
-  "dates": "08 Dec 2020  - 08 Jan 2021 ",
-  "url": "https://dare2compete.com/o/opsmagnum-the-article-writing-competition-indian-institute-of-foreign-trade-iift-delhi-139114",
-  "publishedAt": "12/08/2020, 11:47:12",
-  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fcdc1f168036_Opsigma.png"
-},{
-  "_id": {
-    "$oid": "5fcf1a7169c6b9ebf7416b60"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 2,
-  "title": " The India Quiz  - 7 Lakes Fest - IIM Calcutta ",
-  "conducted_by": " Indian Institute of Management (IIM), Calcutta ",
-  "type1": " Play On D2C ",
-  "type2": " Quizzes ",
-  "doamin1": " Arts & Science ",
-  "domain2": null,
-  "dates": "07 Dec 2020  - 28 Dec 2020 ",
-  "url": "https://dare2compete.com/o/the-india-quiz-7-lakes-fest-iim-calcutta-indian-institute-of-management-iim-calcutta-139117",
-  "publishedAt": "12/08/2020, 11:47:21",
-  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fcdcd3a07bee_logo.jpg"
-},{
-  "_id": {
-    "$oid": "5fcf1a7569c6b9ebf7416b61"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 2,
-  "title": " Eco Buzz ",
-  "conducted_by": " Indian Institute of Management (IIM), Rohtak ",
-  "type1": " Play On D2C ",
-  "type2": " Quizzes ",
-  "doamin1": " On Campus Quiz ",
-  "domain2": " Business ",
-  "dates": "07 Dec 2020  - 28 Dec 2020 ",
-  "url": "https://dare2compete.com/o/eco-buzz-indian-institute-of-management-iim-rohtak-139103",
-  "publishedAt": "12/08/2020, 11:47:25",
-  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fcd4bb0d3b66_Arthashastra.png"
-},{
-  "_id": {
-    "$oid": "5fcf1a7669c6b9ebf7416b62"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 2,
-  "title": " The India Quiz  - 7 Lakes Fest - IIM Calcutta ",
-  "conducted_by": " Indian Institute of Management (IIM), Calcutta ",
-  "type1": " Play On D2C ",
-  "type2": " Quizzes ",
-  "doamin1": " Arts & Science ",
-  "domain2": null,
-  "dates": "07 Dec 2020  - 28 Dec 2020 ",
-  "url": "https://dare2compete.com/o/the-india-quiz-7-lakes-fest-iim-calcutta-indian-institute-of-management-iim-calcutta-139117",
-  "publishedAt": "12/08/2020, 11:47:26",
-  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fcdcd3a07bee_logo.jpg"
-},{
-  "_id": {
-    "$oid": "5fcf1a7a69c6b9ebf7416b63"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 2,
-  "title": " SDG 13- Quiz (Part II) ",
-  "conducted_by": " Ecochirp Foundation ",
-  "type1": " Play On D2C ",
-  "type2": " Quizzes ",
-  "doamin1": " Online Quiz ",
-  "domain2": " Business ",
-  "dates": "07 Dec 2020  - 28 Dec 2020 ",
-  "url": "https://dare2compete.com/o/sdg-13-quiz-part-ii-ecochirp-foundation-139093",
-  "publishedAt": "12/08/2020, 11:47:30",
-  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fcd1e50356a0_SDG_13.jpeg"
-},{
-  "_id": {
-    "$oid": "5fcf1a7d69c6b9ebf7416b64"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 2,
-  "title": " Eco Buzz ",
-  "conducted_by": " Indian Institute of Management (IIM), Rohtak ",
-  "type1": " Play On D2C ",
-  "type2": " Quizzes ",
-  "doamin1": " On Campus Quiz ",
-  "domain2": " Business ",
-  "dates": "07 Dec 2020  - 28 Dec 2020 ",
-  "url": "https://dare2compete.com/o/eco-buzz-indian-institute-of-management-iim-rohtak-139103",
-  "publishedAt": "12/08/2020, 11:47:33",
-  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fcd4bb0d3b66_Arthashastra.png"
-},{
-  "_id": {
-    "$oid": "5fcf1a8069c6b9ebf7416b65"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 2,
-  "title": " Flight to Lead Up  - Lead Up ",
-  "conducted_by": " Goa Institute of Management (GIM), Goa ",
-  "type1": " Workshops ",
-  "type2": null,
-  "doamin1": " Business ",
-  "domain2": " Business Plan ",
-  "dates": "07 Dec 2020  - 28 Dec 2020 ",
-  "url": "https://dare2compete.com/o/flight-to-lead-up-lead-up-goa-institute-of-management-gim-goa-139084",
-  "publishedAt": "12/08/2020, 11:47:36",
-  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fcd0c9266541_WhatsApp_Image_2020-12-06_at_10.23.18_PM.jpeg"
-},{
-  "_id": {
-    "$oid": "5fcf1a8469c6b9ebf7416b66"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 2,
-  "title": " SDG 13- Quiz (Part II) ",
-  "conducted_by": " Ecochirp Foundation ",
-  "type1": " Play On D2C ",
-  "type2": " Quizzes ",
-  "doamin1": " Online Quiz ",
-  "domain2": " Business ",
-  "dates": "07 Dec 2020  - 28 Dec 2020 ",
-  "url": "https://dare2compete.com/o/sdg-13-quiz-part-ii-ecochirp-foundation-139093",
-  "publishedAt": "12/08/2020, 11:47:40",
-  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fcd1e50356a0_SDG_13.jpeg"
-},{
-  "_id": {
-    "$oid": "5fcf1a8869c6b9ebf7416b67"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 2,
-  "title": " Obscure Research ",
-  "conducted_by": " Content Writer ",
-  "type1": " Internships ",
-  "type2": null,
-  "doamin1": " Business ",
-  "domain2": " Engineering ",
-  "dates": "07 Dec 2020  - 28 Dec 2020 ",
-  "url": "https://dare2compete.com/o/content-writer-obscure-research-139082",
-  "publishedAt": "12/08/2020, 11:47:44",
-  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fcd0700e72cf_Red_Background_Obscure_Research_Logo__1_.png"
-},{
-  "_id": {
-    "$oid": "5fcf1a8c69c6b9ebf7416b68"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 2,
-  "title": " Flight to Lead Up  - Lead Up ",
-  "conducted_by": " Goa Institute of Management (GIM), Goa ",
-  "type1": " Workshops ",
-  "type2": null,
-  "doamin1": " Business ",
-  "domain2": " Business Plan ",
-  "dates": "07 Dec 2020  - 28 Dec 2020 ",
-  "url": "https://dare2compete.com/o/flight-to-lead-up-lead-up-goa-institute-of-management-gim-goa-139084",
-  "publishedAt": "12/08/2020, 11:47:48",
-  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fcd0c9266541_WhatsApp_Image_2020-12-06_at_10.23.18_PM.jpeg"
-},{
-  "_id": {
-    "$oid": "5fcf1a8f69c6b9ebf7416b69"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 2,
-  "title": " Aeronautics Quiz ",
-  "conducted_by": " Astronomy Club India ",
-  "type1": " Play On D2C ",
-  "type2": " Quizzes ",
-  "doamin1": " Arts & Science ",
-  "domain2": " Online Quiz ",
-  "dates": "07 Dec 2020  - 28 Dec 2020 ",
-  "url": "https://dare2compete.com/o/aeronautics-quiz-astronomy-club-india-139072",
-  "publishedAt": "12/08/2020, 11:47:51",
-  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fce4b91ad30d_default-removebg-preview.png"
-},{
-  "_id": {
-    "$oid": "5fcf1a9269c6b9ebf7416b6a"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 2,
-  "title": " Obscure Research ",
-  "conducted_by": " Content Writer ",
-  "type1": " Internships ",
-  "type2": null,
-  "doamin1": " Business ",
-  "domain2": " Engineering ",
-  "dates": "07 Dec 2020  - 28 Dec 2020 ",
-  "url": "https://dare2compete.com/o/content-writer-obscure-research-139082",
-  "publishedAt": "12/08/2020, 11:47:54",
-  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fcd0700e72cf_Red_Background_Obscure_Research_Logo__1_.png"
-},{
-  "_id": {
-    "$oid": "5fcf1a9869c6b9ebf7416b6b"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 2,
-  "title": " Sporty Shutter ",
-  "conducted_by": " Clan Wildcats, Manav Rachna International Institute of Research and Studies (MRIIRS), Faridabad ",
-  "type1": " Cultural ",
-  "type2": null,
-  "doamin1": " Arts & Science ",
-  "domain2": null,
-  "dates": "07 Dec 2020  - 28 Dec 2020 ",
-  "url": "https://dare2compete.com/o/sporty-shutter-clan-wildcats-manav-rachna-international-institute-of-research-and-studies-mriirs-faridabad-139070",
-  "publishedAt": "12/08/2020, 11:48:00",
-  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fccf5ef5a8f9_WhatsApp_Image_2020-12-06_at_11.02.11_AM.jpeg"
-},{
-  "_id": {
-    "$oid": "5fcf1a9b69c6b9ebf7416b6c"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 2,
-  "title": " Aeronautics Quiz ",
-  "conducted_by": " Astronomy Club India ",
-  "type1": " Play On D2C ",
-  "type2": " Quizzes ",
-  "doamin1": " Arts & Science ",
-  "domain2": " Online Quiz ",
-  "dates": "07 Dec 2020  - 28 Dec 2020 ",
-  "url": "https://dare2compete.com/o/aeronautics-quiz-astronomy-club-india-139072",
-  "publishedAt": "12/08/2020, 11:48:03",
-  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fce4b91ad30d_default-removebg-preview.png"
-},{
-  "_id": {
-    "$oid": "5fcf1a9f69c6b9ebf7416b6d"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 2,
-  "title": " Business Analytics Simulation ",
-  "conducted_by": " KIIT School of Management (KSOM), Bhubaneswar ",
-  "type1": " Competitions ",
-  "type2": null,
-  "doamin1": " Business ",
-  "domain2": " Engineering ",
-  "dates": "07 Dec 2020  - 28 Dec 2020 ",
-  "url": "https://dare2compete.com/o/business-analytics-simulation-1st-national-business-analytics-conclave-business-analytics-simulation-kiit-school-of-ma-139062",
-  "publishedAt": "12/08/2020, 11:48:07",
-  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fccf1b6e9de8_Webp.net-compress-image.jpg"
-},{
-  "_id": {
-    "$oid": "5fcf1aa369c6b9ebf7416b6e"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 2,
-  "title": " Sporty Shutter ",
-  "conducted_by": " Clan Wildcats, Manav Rachna International Institute of Research and Studies (MRIIRS), Faridabad ",
-  "type1": " Cultural ",
-  "type2": null,
-  "doamin1": " Arts & Science ",
-  "domain2": null,
-  "dates": "07 Dec 2020  - 28 Dec 2020 ",
-  "url": "https://dare2compete.com/o/sporty-shutter-clan-wildcats-manav-rachna-international-institute-of-research-and-studies-mriirs-faridabad-139070",
-  "publishedAt": "12/08/2020, 11:48:11",
-  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fccf5ef5a8f9_WhatsApp_Image_2020-12-06_at_11.02.11_AM.jpeg"
-},{
-  "_id": {
-    "$oid": "5fcf1aa869c6b9ebf7416b6f"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 2,
-  "title": " \"Baat Cheet\"- Group Discussions ",
-  "conducted_by": " Startup Sabha ",
-  "type1": " Competitions ",
-  "type2": null,
-  "doamin1": " Engineering ",
-  "domain2": " Business ",
-  "dates": "07 Dec 2020  - 28 Dec 2020 ",
-  "url": "https://dare2compete.com/o/baat-cheet-group-discussions-startup-sabha-139059",
-  "publishedAt": "12/08/2020, 11:48:16",
-  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fccded557198_facebook_profile_image.png"
-},{
-  "_id": {
-    "$oid": "5fcf1aac69c6b9ebf7416b70"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 2,
-  "title": " Business Analytics Simulation ",
-  "conducted_by": " KIIT School of Management (KSOM), Bhubaneswar ",
-  "type1": " Competitions ",
-  "type2": null,
-  "doamin1": " Business ",
-  "domain2": " Engineering ",
-  "dates": "07 Dec 2020  - 28 Dec 2020 ",
-  "url": "https://dare2compete.com/o/business-analytics-simulation-1st-national-business-analytics-conclave-business-analytics-simulation-kiit-school-of-ma-139062",
-  "publishedAt": "12/08/2020, 11:48:20",
-  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fccf1b6e9de8_Webp.net-compress-image.jpg"
-},{
-  "_id": {
-    "$oid": "5fcf1aaf69c6b9ebf7416b71"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 2,
-  "title": " PratiSpardha- Online Case Study Competition ",
-  "conducted_by": " Notebook Nation ",
-  "type1": "Paid",
-  "type2": " Competitions ",
-  "doamin1": " Business ",
-  "domain2": null,
-  "dates": "07 Dec 2020  - 28 Dec 2020 ",
-  "url": "https://dare2compete.com/o/pratispardha-online-case-study-competition-notebook-nation-139053",
-  "publishedAt": "12/08/2020, 11:48:23",
-  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fccd7ddb2aea_logo.png"
-},{
-  "_id": {
-    "$oid": "5fcf1ab369c6b9ebf7416b72"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 2,
-  "title": " \"Baat Cheet\"- Group Discussions ",
-  "conducted_by": " Startup Sabha ",
-  "type1": " Competitions ",
-  "type2": null,
-  "doamin1": " Engineering ",
-  "domain2": " Business ",
-  "dates": "07 Dec 2020  - 28 Dec 2020 ",
-  "url": "https://dare2compete.com/o/baat-cheet-group-discussions-startup-sabha-139059",
-  "publishedAt": "12/08/2020, 11:48:27",
-  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fccded557198_facebook_profile_image.png"
-},{
-  "_id": {
-    "$oid": "5fcf1ab669c6b9ebf7416b73"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 2,
-  "title": " A Tad Bit More Human Poster Making/ Slogan Writing Event ",
-  "conducted_by": " Manav Rachna University (MRU), Faridabad ",
-  "type1": " Cultural ",
-  "type2": null,
-  "doamin1": " Social Media & Digital ",
-  "domain2": " Poster Making ",
-  "dates": "07 Dec 2020  - 28 Dec 2020 ",
-  "url": "https://dare2compete.com/o/a-tad-bit-more-human-poster-making-slogan-writing-event-manav-rachna-university-mru-faridabad-139052",
-  "publishedAt": "12/08/2020, 11:48:30",
-  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fcd2894b5d62_poster_making.jpg"
-},{
-  "_id": {
-    "$oid": "5fcf1aba69c6b9ebf7416b74"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 2,
-  "title": " PratiSpardha- Online Case Study Competition ",
-  "conducted_by": " Notebook Nation ",
-  "type1": "Paid",
-  "type2": " Competitions ",
-  "doamin1": " Business ",
-  "domain2": null,
-  "dates": "07 Dec 2020  - 28 Dec 2020 ",
-  "url": "https://dare2compete.com/o/pratispardha-online-case-study-competition-notebook-nation-139053",
-  "publishedAt": "12/08/2020, 11:48:34",
-  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fccd7ddb2aea_logo.png"
-},{
-  "_id": {
-    "$oid": "5fcf1abe69c6b9ebf7416b75"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 2,
-  "title": " Call for Articles FINLY January 2021 ",
-  "conducted_by": " K.J. Somaiya Institute of Management (KJ SIM), Mumbai ",
-  "type1": " Competitions ",
-  "type2": null,
-  "doamin1": " Business ",
-  "domain2": " Article Writing ",
-  "dates": "07 Dec 2020  - 28 Dec 2020 ",
-  "url": "https://dare2compete.com/o/call-for-articles-finly-january-2021-kj-somaiya-institute-of-management-kj-sim-mumbai-139049",
-  "publishedAt": "12/08/2020, 11:48:38",
-  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fccd89a3e6a2_Finstreet.png"
-},{
-  "_id": {
-    "$oid": "5fcf1ac169c6b9ebf7416b76"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 2,
-  "title": " A Tad Bit More Human Poster Making/ Slogan Writing Event ",
-  "conducted_by": " Manav Rachna University (MRU), Faridabad ",
-  "type1": " Cultural ",
-  "type2": null,
-  "doamin1": " Social Media & Digital ",
-  "domain2": " Poster Making ",
-  "dates": "07 Dec 2020  - 28 Dec 2020 ",
-  "url": "https://dare2compete.com/o/a-tad-bit-more-human-poster-making-slogan-writing-event-manav-rachna-university-mru-faridabad-139052",
-  "publishedAt": "12/08/2020, 11:48:41",
-  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fcd2894b5d62_poster_making.jpg"
-},{
-  "_id": {
-    "$oid": "5fcf1ac569c6b9ebf7416b77"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 2,
-  "title": " Students’ Engineering Model Competition  - India International Science Festival IISF-2020 ",
-  "conducted_by": " Central Electronics Engineering Research Institute ",
-  "type1": " Competitions ",
-  "type2": null,
-  "doamin1": " Arts & Science ",
-  "domain2": " Engineering ",
-  "dates": "07 Dec 2020  - 28 Dec 2020 ",
-  "url": "https://dare2compete.com/o/students-engineering-model-competition-india-international-science-festival-iisf-2020-central-electronics-engineering--139011",
-  "publishedAt": "12/08/2020, 11:48:45",
-  "urlToImage": null
-},{
-  "_id": {
-    "$oid": "5fcf1ac969c6b9ebf7416b78"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 2,
-  "title": " Call for Articles FINLY January 2021 ",
-  "conducted_by": " K.J. Somaiya Institute of Management (KJ SIM), Mumbai ",
-  "type1": " Competitions ",
-  "type2": null,
-  "doamin1": " Business ",
-  "domain2": " Article Writing ",
-  "dates": "07 Dec 2020  - 28 Dec 2020 ",
-  "url": "https://dare2compete.com/o/call-for-articles-finly-january-2021-kj-somaiya-institute-of-management-kj-sim-mumbai-139049",
-  "publishedAt": "12/08/2020, 11:48:49",
-  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fccd89a3e6a2_Finstreet.png"
-},{
-  "_id": {
-    "$oid": "5fcf1acc69c6b9ebf7416b79"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 2,
-  "title": " National Institute of Industrial Engineering (NITIE), Mumbai ",
-  "conducted_by": " Student Ambassador | Supply Chain Digitization and Management Course ",
-  "type1": " Internships ",
-  "type2": null,
-  "doamin1": " Business ",
-  "domain2": " Engineering ",
-  "dates": "07 Dec 2020  - 28 Dec 2020 ",
-  "url": "https://dare2compete.com/o/student-ambassador-supply-chain-digitization-and-management-course-national-institute-of-industrial-engineering-nitie--139035",
-  "publishedAt": "12/08/2020, 11:48:52",
-  "urlToImage": null
-},{
-  "_id": {
-    "$oid": "5fcf1acf69c6b9ebf7416b7a"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 2,
-  "title": " Students’ Engineering Model Competition  - India International Science Festival IISF-2020 ",
-  "conducted_by": " Central Electronics Engineering Research Institute ",
-  "type1": " Competitions ",
-  "type2": null,
-  "doamin1": " Arts & Science ",
-  "domain2": " Engineering ",
-  "dates": "07 Dec 2020  - 28 Dec 2020 ",
-  "url": "https://dare2compete.com/o/students-engineering-model-competition-india-international-science-festival-iisf-2020-central-electronics-engineering--139011",
-  "publishedAt": "12/08/2020, 11:48:55",
-  "urlToImage": null
-},{
-  "_id": {
-    "$oid": "5fcf1ad369c6b9ebf7416b7b"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 2,
-  "title": " iNFRASTRUCK 2.0 - Article Writing Competition ",
-  "conducted_by": " Indian Institute of Foreign Trade (IIFT) ",
-  "type1": " Competitions ",
-  "type2": null,
-  "doamin1": " Business ",
-  "domain2": " Article Writing ",
-  "dates": "07 Dec 2020  - 28 Dec 2020 ",
-  "url": "https://dare2compete.com/o/infrastruck-20-article-writing-competition-indian-institute-of-foreign-trade-iift-139033",
-  "publishedAt": "12/08/2020, 11:48:59",
-  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fcca0f969b74_LOGO.jpg"
-},{
-  "_id": {
-    "$oid": "5fcf1ad669c6b9ebf7416b7c"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 2,
-  "title": " National Institute of Industrial Engineering (NITIE), Mumbai ",
-  "conducted_by": " Student Ambassador | Supply Chain Digitization and Management Course ",
-  "type1": " Internships ",
-  "type2": null,
-  "doamin1": " Business ",
-  "domain2": " Engineering ",
-  "dates": "07 Dec 2020  - 28 Dec 2020 ",
-  "url": "https://dare2compete.com/o/student-ambassador-supply-chain-digitization-and-management-course-national-institute-of-industrial-engineering-nitie--139035",
-  "publishedAt": "12/08/2020, 11:49:02",
-  "urlToImage": null
-},{
-  "_id": {
-    "$oid": "5fcf1ada69c6b9ebf7416b7d"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 2,
-  "title": " M&A Rainmaker  - 7 Lakes Fest - IIM Calcutta ",
-  "conducted_by": " Indian Institute of Management (IIM), Calcutta ",
-  "type1": " Play On D2C ",
-  "type2": " Competitions ",
-  "doamin1": " Business ",
-  "domain2": " Case Study ",
-  "dates": "07 Dec 2020  - 28 Dec 2020 ",
-  "url": "https://dare2compete.com/o/ma-rainmaker-7-lakes-fest-iim-calcutta-indian-institute-of-management-iim-calcutta-139037",
-  "publishedAt": "12/08/2020, 11:49:06",
-  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fccab891b93e_logo.jpg"
-},{
-  "_id": {
-    "$oid": "5fcf1add69c6b9ebf7416b7e"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 2,
-  "title": " iNFRASTRUCK 2.0 - Article Writing Competition ",
-  "conducted_by": " Indian Institute of Foreign Trade (IIFT) ",
-  "type1": " Competitions ",
-  "type2": null,
-  "doamin1": " Business ",
-  "domain2": " Article Writing ",
-  "dates": "07 Dec 2020  - 28 Dec 2020 ",
-  "url": "https://dare2compete.com/o/infrastruck-20-article-writing-competition-indian-institute-of-foreign-trade-iift-139033",
-  "publishedAt": "12/08/2020, 11:49:09",
-  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fcca0f969b74_LOGO.jpg"
-},{
-  "_id": {
-    "$oid": "5fcf1ae069c6b9ebf7416b7f"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 2,
-  "title": " Guess The Brand 2.0 ",
-  "conducted_by": " Berows ",
-  "type1": "Paid",
-  "type2": " Play On D2C ",
-  "doamin1": " Arts & Science ",
-  "domain2": " Business ",
-  "dates": "07 Dec 2020  - 28 Dec 2020 ",
-  "url": "https://dare2compete.com/o/guess-the-brand-20-berows-139038",
-  "publishedAt": "12/08/2020, 11:49:12",
-  "urlToImage": null
-},{
-  "_id": {
-    "$oid": "5fcf1ae469c6b9ebf7416b80"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 2,
-  "title": " M&A Rainmaker  - 7 Lakes Fest - IIM Calcutta ",
-  "conducted_by": " Indian Institute of Management (IIM), Calcutta ",
-  "type1": " Play On D2C ",
-  "type2": " Competitions ",
-  "doamin1": " Business ",
-  "domain2": " Case Study ",
-  "dates": "07 Dec 2020  - 28 Dec 2020 ",
-  "url": "https://dare2compete.com/o/ma-rainmaker-7-lakes-fest-iim-calcutta-indian-institute-of-management-iim-calcutta-139037",
-  "publishedAt": "12/08/2020, 11:49:16",
-  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fccab891b93e_logo.jpg"
-},{
-  "_id": {
-    "$oid": "5fcf1ae769c6b9ebf7416b81"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 2,
-  "title": " TagTest ",
-  "conducted_by": " Manav Rachna University (MRU), Faridabad ",
-  "type1": " Competitions ",
-  "type2": null,
-  "doamin1": " Human Resource ",
-  "domain2": null,
-  "dates": "07 Dec 2020  - 28 Dec 2020 ",
-  "url": "https://dare2compete.com/o/tagtest-manav-rachna-university-mru-faridabad-139029",
-  "publishedAt": "12/08/2020, 11:49:19",
-  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fcc9e41b786a_WhatsApp_Image_2020-12-06_at_13.17.03.jpeg"
-},{
-  "_id": {
-    "$oid": "5fcf1aea69c6b9ebf7416b82"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 2,
-  "title": " Guess The Brand 2.0 ",
-  "conducted_by": " Berows ",
-  "type1": "Paid",
-  "type2": " Play On D2C ",
-  "doamin1": " Arts & Science ",
-  "domain2": " Business ",
-  "dates": "07 Dec 2020  - 28 Dec 2020 ",
-  "url": "https://dare2compete.com/o/guess-the-brand-20-berows-139038",
-  "publishedAt": "12/08/2020, 11:49:22",
-  "urlToImage": null
-},{
-  "_id": {
-    "$oid": "5fcf1aef69c6b9ebf7416b83"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 2,
-  "title": " QUEST-ion ",
-  "conducted_by": " Indian Institute of Technology (IIT), Patna ",
-  "type1": " Play On D2C ",
-  "type2": " Quizzes ",
-  "doamin1": " Arts & Science ",
-  "domain2": " Engineering ",
-  "dates": "07 Dec 2020  - 28 Dec 2020 ",
-  "url": "https://dare2compete.com/o/quest-ion-indian-institute-of-technology-iit-patna-139028",
-  "publishedAt": "12/08/2020, 11:49:27",
-  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fcc994208afa_profile.png"
-},{
-  "_id": {
-    "$oid": "5fcf1af369c6b9ebf7416b84"
-  },
-  "source_id": "E-1",
-  "name": "dare2compete.com",
-  "page": 2,
-  "title": " TagTest ",
-  "conducted_by": " Manav Rachna University (MRU), Faridabad ",
-  "type1": " Competitions ",
-  "type2": null,
-  "doamin1": " Human Resource ",
-  "domain2": null,
-  "dates": "07 Dec 2020  - 28 Dec 2020 ",
-  "url": "https://dare2compete.com/o/tagtest-manav-rachna-university-mru-faridabad-139029",
-  "publishedAt": "12/08/2020, 11:49:31",
-  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fcc9e41b786a_WhatsApp_Image_2020-12-06_at_13.17.03.jpeg"
-},{
-  "_id": {
-    "$oid": "5fcf1afa69c6b9ebf7416b85"
+    "$oid": "5fd9fe7c5fc65d2fd4b1fc57"
   },
   "source_id": "E-1",
   "name": "dare2compete.com",
   "page": 3,
-  "title": " QUEST-ion ",
-  "conducted_by": " Indian Institute of Technology (IIT), Patna ",
+  "title": " Iris 4.0  - TRISHNA 2K21 - The Official Management and Cultural Fest of IBS Hyderabad ",
+  "conducted_by": " ICFAI Business School (IBS), Hyderabad ",
+  "type1": null,
+  "type2": null,
+  "doamin1": " Business ",
+  "domain2": " Arts & Science ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/iris-40-trishna-2k21-the-official-management-and-cultural-fest-of-ibs-hyderabad-icfai-business-school-ibs-hyderabad-139939",
+  "publishedAt": "12/16/2020, 18:03:00",
+  "urlToImage": null
+},{
+  "_id": {
+    "$oid": "5fd9fe7f5fc65d2fd4b1fc58"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " Iris 4.0  - TRISHNA 2K21 - The Official Management and Cultural Fest of IBS Hyderabad ",
+  "conducted_by": " ICFAI Business School (IBS), Hyderabad ",
+  "type1": null,
+  "type2": null,
+  "doamin1": " Business ",
+  "domain2": " Arts & Science ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/iris-40-trishna-2k21-the-official-management-and-cultural-fest-of-ibs-hyderabad-icfai-business-school-ibs-hyderabad-139939",
+  "publishedAt": "12/16/2020, 18:03:03",
+  "urlToImage": null
+},{
+  "_id": {
+    "$oid": "5fd9fe835fc65d2fd4b1fc59"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " Business Olympiad 2020 ",
+  "conducted_by": " learnous ",
+  "type1": "Paid",
+  "type2": " Play On D2C ",
+  "doamin1": " Business ",
+  "domain2": " Online Quiz ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/business-olympiad-2020-learnous-139957",
+  "publishedAt": "12/16/2020, 18:03:07",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd87a046a7cb_IMG-20201203-WA0029.jpg"
+},{
+  "_id": {
+    "$oid": "5fd9fe865fc65d2fd4b1fc5a"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " Summachar Sunday SuperQuiz ",
+  "conducted_by": " Summachar ",
+  "type1": " Quizzes ",
+  "type2": null,
+  "doamin1": " Online Quiz ",
+  "domain2": null,
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/summachar-sunday-superquiz-summachar-139952",
+  "publishedAt": "12/16/2020, 18:03:10",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd7503456ae3_food.jpg"
+},{
+  "_id": {
+    "$oid": "5fd9fe895fc65d2fd4b1fc5b"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " Summachar Sunday SuperQuiz ",
+  "conducted_by": " Summachar ",
+  "type1": " Quizzes ",
+  "type2": null,
+  "doamin1": " Online Quiz ",
+  "domain2": null,
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/summachar-sunday-superquiz-summachar-139952",
+  "publishedAt": "12/16/2020, 18:03:13",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd7503456ae3_food.jpg"
+},{
+  "_id": {
+    "$oid": "5fd9fe8d5fc65d2fd4b1fc5c"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " Vijay Diwas Quiz ",
+  "conducted_by": " Synod ",
   "type1": " Play On D2C ",
   "type2": " Quizzes ",
   "doamin1": " Arts & Science ",
   "domain2": " Engineering ",
-  "dates": "07 Dec 2020  - 28 Dec 2020 ",
-  "url": "https://dare2compete.com/o/quest-ion-indian-institute-of-technology-iit-patna-139028",
-  "publishedAt": "12/08/2020, 11:49:38",
-  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fcc994208afa_profile.png"
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/vijay-diwas-quiz-synod-139948",
+  "publishedAt": "12/16/2020, 18:03:17",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd7444d8c5c5_unnamed.png"
+},{
+  "_id": {
+    "$oid": "5fd9fe905fc65d2fd4b1fc5d"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " Business Olympiad 2020 ",
+  "conducted_by": " learnous ",
+  "type1": "Paid",
+  "type2": " Play On D2C ",
+  "doamin1": " Business ",
+  "domain2": " Online Quiz ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/business-olympiad-2020-learnous-139957",
+  "publishedAt": "12/16/2020, 18:03:20",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd87a046a7cb_IMG-20201203-WA0029.jpg"
+},{
+  "_id": {
+    "$oid": "5fd9fe935fc65d2fd4b1fc5e"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " Business Olympiad 2020 ",
+  "conducted_by": " learnous ",
+  "type1": "Paid",
+  "type2": " Play On D2C ",
+  "doamin1": " Business ",
+  "domain2": " Online Quiz ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/business-olympiad-2020-learnous-139957",
+  "publishedAt": "12/16/2020, 18:03:23",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd87a046a7cb_IMG-20201203-WA0029.jpg"
+},{
+  "_id": {
+    "$oid": "5fd9fe965fc65d2fd4b1fc5f"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " Mavericks of Business ",
+  "conducted_by": " RT Quiz ",
+  "type1": " Play On D2C ",
+  "type2": " Quizzes ",
+  "doamin1": " Business ",
+  "domain2": " Online Quiz ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/mavericks-of-business-rt-quiz-139860",
+  "publishedAt": "12/16/2020, 18:03:26",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd62bd8ea2c9_mob1x1emb-min.jpg"
+},{
+  "_id": {
+    "$oid": "5fd9fe9a5fc65d2fd4b1fc60"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " Vijay Diwas Quiz ",
+  "conducted_by": " Synod ",
+  "type1": " Play On D2C ",
+  "type2": " Quizzes ",
+  "doamin1": " Arts & Science ",
+  "domain2": " Engineering ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/vijay-diwas-quiz-synod-139948",
+  "publishedAt": "12/16/2020, 18:03:30",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd7444d8c5c5_unnamed.png"
+},{
+  "_id": {
+    "$oid": "5fd9fe9d5fc65d2fd4b1fc61"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " Vijay Diwas Quiz ",
+  "conducted_by": " Synod ",
+  "type1": " Play On D2C ",
+  "type2": " Quizzes ",
+  "doamin1": " Arts & Science ",
+  "domain2": " Engineering ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/vijay-diwas-quiz-synod-139948",
+  "publishedAt": "12/16/2020, 18:03:33",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd7444d8c5c5_unnamed.png"
+},{
+  "_id": {
+    "$oid": "5fd9fea05fc65d2fd4b1fc62"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " A Tale of Finolicia  - TRISHNA 2K21 - The Official Management and Cultural Fest of IBS Hyderabad ",
+  "conducted_by": " ICFAI Business School (IBS), Hyderabad ",
+  "type1": " Competitions ",
+  "type2": null,
+  "doamin1": " Business ",
+  "domain2": " Engineering ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/a-tale-of-finolicia-trishna-2k21-the-official-management-and-cultural-fest-of-ibs-hyderabad-icfai-business-school-ibs--139931",
+  "publishedAt": "12/16/2020, 18:03:36",
+  "urlToImage": null
+},{
+  "_id": {
+    "$oid": "5fd9fea45fc65d2fd4b1fc63"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " Mavericks of Business ",
+  "conducted_by": " RT Quiz ",
+  "type1": " Play On D2C ",
+  "type2": " Quizzes ",
+  "doamin1": " Business ",
+  "domain2": " Online Quiz ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/mavericks-of-business-rt-quiz-139860",
+  "publishedAt": "12/16/2020, 18:03:40",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd62bd8ea2c9_mob1x1emb-min.jpg"
+},{
+  "_id": {
+    "$oid": "5fd9fea75fc65d2fd4b1fc64"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " Mavericks of Business ",
+  "conducted_by": " RT Quiz ",
+  "type1": " Play On D2C ",
+  "type2": " Quizzes ",
+  "doamin1": " Business ",
+  "domain2": " Online Quiz ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/mavericks-of-business-rt-quiz-139860",
+  "publishedAt": "12/16/2020, 18:03:43",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd62bd8ea2c9_mob1x1emb-min.jpg"
+},{
+  "_id": {
+    "$oid": "5fd9feaa5fc65d2fd4b1fc65"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " Young Economics Research Competition 2020  - Young Economists Research Competition 2020 – 2021 ",
+  "conducted_by": " Meghnad Desai Academy of Economics (MDAE), Mumbai ",
+  "type1": " Competitions ",
+  "type2": null,
+  "doamin1": " Arts & Science ",
+  "domain2": " Engineering ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/young-economics-research-competition-2020-young-economists-research-competition-2020-2021-meghnad-desai-academy-of-eco-139947",
+  "publishedAt": "12/16/2020, 18:03:46",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd74340ab4c4_mdae-logo.jpg"
+},{
+  "_id": {
+    "$oid": "5fd9fead5fc65d2fd4b1fc66"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " A Tale of Finolicia  - TRISHNA 2K21 - The Official Management and Cultural Fest of IBS Hyderabad ",
+  "conducted_by": " ICFAI Business School (IBS), Hyderabad ",
+  "type1": " Competitions ",
+  "type2": null,
+  "doamin1": " Business ",
+  "domain2": " Engineering ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/a-tale-of-finolicia-trishna-2k21-the-official-management-and-cultural-fest-of-ibs-hyderabad-icfai-business-school-ibs--139931",
+  "publishedAt": "12/16/2020, 18:03:49",
+  "urlToImage": null
+},{
+  "_id": {
+    "$oid": "5fd9feb15fc65d2fd4b1fc67"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " A Tale of Finolicia  - TRISHNA 2K21 - The Official Management and Cultural Fest of IBS Hyderabad ",
+  "conducted_by": " ICFAI Business School (IBS), Hyderabad ",
+  "type1": " Competitions ",
+  "type2": null,
+  "doamin1": " Business ",
+  "domain2": " Engineering ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/a-tale-of-finolicia-trishna-2k21-the-official-management-and-cultural-fest-of-ibs-hyderabad-icfai-business-school-ibs--139931",
+  "publishedAt": "12/16/2020, 18:03:53",
+  "urlToImage": null
+},{
+  "_id": {
+    "$oid": "5fd9feb45fc65d2fd4b1fc68"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " Henry Harvin Education ",
+  "conducted_by": " Campus Ambassador Program ",
+  "type1": " Internships ",
+  "type2": null,
+  "doamin1": " Business Development ",
+  "domain2": null,
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/campus-ambassador-program-henry-harvin-education-139938",
+  "publishedAt": "12/16/2020, 18:03:56",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd72e5d89c87_Newlogo.png"
+},{
+  "_id": {
+    "$oid": "5fd9feb75fc65d2fd4b1fc69"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " Young Economics Research Competition 2020  - Young Economists Research Competition 2020 – 2021 ",
+  "conducted_by": " Meghnad Desai Academy of Economics (MDAE), Mumbai ",
+  "type1": " Competitions ",
+  "type2": null,
+  "doamin1": " Arts & Science ",
+  "domain2": " Engineering ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/young-economics-research-competition-2020-young-economists-research-competition-2020-2021-meghnad-desai-academy-of-eco-139947",
+  "publishedAt": "12/16/2020, 18:03:59",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd74340ab4c4_mdae-logo.jpg"
+},{
+  "_id": {
+    "$oid": "5fd9feba5fc65d2fd4b1fc6a"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " Young Economics Research Competition 2020  - Young Economists Research Competition 2020 – 2021 ",
+  "conducted_by": " Meghnad Desai Academy of Economics (MDAE), Mumbai ",
+  "type1": " Competitions ",
+  "type2": null,
+  "doamin1": " Arts & Science ",
+  "domain2": " Engineering ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/young-economics-research-competition-2020-young-economists-research-competition-2020-2021-meghnad-desai-academy-of-eco-139947",
+  "publishedAt": "12/16/2020, 18:04:02",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd74340ab4c4_mdae-logo.jpg"
+},{
+  "_id": {
+    "$oid": "5fd9febe5fc65d2fd4b1fc6b"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " Ace The Case Workshop  - 7 Lakes Fest - IIM Calcutta ",
+  "conducted_by": " Indian Institute of Management (IIM), Calcutta ",
+  "type1": "Paid",
+  "type2": null,
+  "doamin1": " Business ",
+  "domain2": " Engineering ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/ace-the-case-workshop-7-lakes-fest-iim-calcutta-indian-institute-of-management-iim-calcutta-139870",
+  "publishedAt": "12/16/2020, 18:04:06",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd6404b127ed_size.jpg"
+},{
+  "_id": {
+    "$oid": "5fd9fec15fc65d2fd4b1fc6c"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " Henry Harvin Education ",
+  "conducted_by": " Campus Ambassador Program ",
+  "type1": " Internships ",
+  "type2": null,
+  "doamin1": " Business Development ",
+  "domain2": null,
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/campus-ambassador-program-henry-harvin-education-139938",
+  "publishedAt": "12/16/2020, 18:04:09",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd72e5d89c87_Newlogo.png"
+},{
+  "_id": {
+    "$oid": "5fd9fec45fc65d2fd4b1fc6d"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " Henry Harvin Education ",
+  "conducted_by": " Campus Ambassador Program ",
+  "type1": " Internships ",
+  "type2": null,
+  "doamin1": " Business Development ",
+  "domain2": null,
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/campus-ambassador-program-henry-harvin-education-139938",
+  "publishedAt": "12/16/2020, 18:04:12",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd72e5d89c87_Newlogo.png"
+},{
+  "_id": {
+    "$oid": "5fd9fec75fc65d2fd4b1fc6e"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " Masterclass on IoT Security ",
+  "conducted_by": " Pragyatmika ",
+  "type1": null,
+  "type2": null,
+  "doamin1": " Engineering ",
+  "domain2": " Conference ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/masterclass-on-iot-security-pragyatmika-139887",
+  "publishedAt": "12/16/2020, 18:04:15",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd67164f0a70_Logo.jpg"
+},{
+  "_id": {
+    "$oid": "5fd9fecb5fc65d2fd4b1fc6f"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " Ace The Case Workshop  - 7 Lakes Fest - IIM Calcutta ",
+  "conducted_by": " Indian Institute of Management (IIM), Calcutta ",
+  "type1": "Paid",
+  "type2": null,
+  "doamin1": " Business ",
+  "domain2": " Engineering ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/ace-the-case-workshop-7-lakes-fest-iim-calcutta-indian-institute-of-management-iim-calcutta-139870",
+  "publishedAt": "12/16/2020, 18:04:19",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd6404b127ed_size.jpg"
+},{
+  "_id": {
+    "$oid": "5fd9fece5fc65d2fd4b1fc70"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 3,
+  "title": " Ace The Case Workshop  - 7 Lakes Fest - IIM Calcutta ",
+  "conducted_by": " Indian Institute of Management (IIM), Calcutta ",
+  "type1": "Paid",
+  "type2": null,
+  "doamin1": " Business ",
+  "domain2": " Engineering ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/ace-the-case-workshop-7-lakes-fest-iim-calcutta-indian-institute-of-management-iim-calcutta-139870",
+  "publishedAt": "12/16/2020, 18:04:22",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd6404b127ed_size.jpg"
+},{
+  "_id": {
+    "$oid": "5fd9fed65fc65d2fd4b1fc71"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 4,
+  "title": " Masterclass on IoT Security ",
+  "conducted_by": " Pragyatmika ",
+  "type1": null,
+  "type2": null,
+  "doamin1": " Engineering ",
+  "domain2": " Conference ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/masterclass-on-iot-security-pragyatmika-139887",
+  "publishedAt": "12/16/2020, 18:04:30",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd67164f0a70_Logo.jpg"
+},{
+  "_id": {
+    "$oid": "5fd9feda5fc65d2fd4b1fc72"
+  },
+  "source_id": "E-1",
+  "name": "dare2compete.com",
+  "page": 4,
+  "title": " Masterclass on IoT Security ",
+  "conducted_by": " Pragyatmika ",
+  "type1": null,
+  "type2": null,
+  "doamin1": " Engineering ",
+  "domain2": " Conference ",
+  "dates": "07 Jan 2021  - 07 Jan 2021 ",
+  "url": "https://dare2compete.com/o/masterclass-on-iot-security-pragyatmika-139887",
+  "publishedAt": "12/16/2020, 18:04:34",
+  "urlToImage": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/5fd67164f0a70_Logo.jpg"
 }]
